@@ -65,3 +65,13 @@ h2 {
 .icon-link:active, .icon-link:hover, .icon-link:focus {
     color: inherit;
 }
+
+.title-link{
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+}
+
+.title-link:active, .title-link:hover, .title-link:focus {
+    color: inherit;
+}

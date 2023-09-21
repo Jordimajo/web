@@ -6,6 +6,10 @@ import {
     diasObjetivoSuperado50
 } from '../utils/storage'; // Importamos las funciones que necesitamos.
 import './Stats.css';
+import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
+import StarRateIcon from '@mui/icons-material/StarRate';
+import TrendingUpIcon from '@mui/icons-material/TrendingUp';
+import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 
 const Stats = () => {
     return (
@@ -13,25 +17,25 @@ const Stats = () => {
             <h2>Estadísticas</h2>
             <div className="contenedor-estadisticas">
                 <div className="estadistica">
-                    <img src="path/to/icon1.png" alt="Días jugados" className="estadistica-icono"/>
+                    <CalendarTodayIcon className="estadistica-icono"/>
                     <h3>Días jugados</h3>
                     <p>{diasJugadosCompletamente()}</p>
                 </div>
 
                 <div className="estadistica">
-                    <img src="path/to/icon2.png" alt="Puntuación media" className="estadistica-icono"/>
+                    <StarRateIcon className="estadistica-icono"/>
                     <h3>Puntuación media</h3>
                     <p>{puntuacionMedia()}</p>
                 </div>
 
                 <div className="estadistica">
-                    <img src="path/to/icon3.png" alt="Reto 50 puntos" className="estadistica-icono"/>
+                    <TrendingUpIcon className="estadistica-icono"/>
                     <h3>Reto 50 puntos</h3>
                     <p>{diasObjetivoSuperado50()}</p>
                 </div>
 
                 <div className="estadistica">
-                    <img src="path/to/icon4.png" alt="Reto 80 puntos" className="estadistica-icono"/>
+                    <CheckCircleIcon className="estadistica-icono"/>
                     <h3>Reto 80 puntos</h3>
                     <p>{diasObjetivoSuperado80()}</p>
                 </div>

@@ -10,13 +10,18 @@ const Header = () => {
         <div className="header-container">
             <div className="title-container">
                 <Sidebar />
+
                 <Link to="/calendario" className="icon-link">
                     <FontAwesomeIcon icon={faCalendarAlt} className="left-icon" />
                 </Link>
-                <div className="titles">
-                    <h1>ADIVINA EL PRECIO</h1>
-                    <h2>5 productos nuevos cada día</h2>
-                </div>
+
+                <Link to="/" className="title-link">
+                    <div className="titles">
+                        <h1>ADIVINA EL PRECIO</h1>
+                        <h2>5 productos nuevos cada día</h2>
+                    </div>
+                </Link>
+
                 <Link to="/stats" className="icon-link">
                     <FontAwesomeIcon icon={faChartBar} className="right-icon" />
                 </Link>

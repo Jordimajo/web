@@ -19,7 +19,7 @@ const Sidebar = () => {
         setIsOpen(false);
       }
     };
-    
+
     document.addEventListener('mousedown', handleOutsideClick);
     document.addEventListener('touchstart', handleOutsideClick);
 
@@ -35,6 +35,7 @@ const Sidebar = () => {
       {isOpen && (
         <div className="menu" ref={menuRef}>
           <ul>
+            <Link to="/" onClick={handleMenuLinkClick}><li>Reto del día</li></Link>
             <Link to="/calendario" onClick={handleMenuLinkClick}><li>Retos anteriores</li></Link>
             <Link to="/stats" onClick={handleMenuLinkClick}><li>Estadísticas</li></Link>
             <li onClick={handleMenuLinkClick}>Contacto</li>
