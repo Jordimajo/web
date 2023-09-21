@@ -1,0 +1,67 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Para centrar todo en el eje principal */
+    border: 1px solid #e0e0e0;  /* Estilo del componente Producto */
+    padding: 6px 16px;              /* Estilo del componente Producto */
+    border-radius: 8px;         /* Estilo del componente Producto */
+    margin: 6px 16px;               /* Estilo del componente Producto */
+    max-width: 100%;            /* Asegura que el componente no exceda el ancho de la pantalla */
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.titles {
+    text-align: center;
+    margin: 0 20px; /* Reduzca el margen en dispositivos móviles */
+
+    @media (min-width: 600px) {
+        margin: 0 60px;  /* Espaciado entre los íconos y los títulos para pantallas más grandes */
+    }
+}
+
+h1, h2 {
+    margin: 5px 0;  /* Mantenemos el margen vertical en dispositivos móviles */
+
+    font-size: 1.2em; /* Tamaño reducido para h1 en dispositivos móviles */
+    
+    @media (min-width: 600px) {
+        margin: 10px 0; /* Margen estándar para pantallas más grandes */
+        font-size: 1.4em; /* Tamaño reducido para h1 en pantallas más grandes */
+    }
+}
+
+h2 {
+    font-size: 0.9em; /* Tamaño reducido para h2 en dispositivos móviles */
+    
+    @media (min-width: 600px) {
+        font-size: 1.2em; /* Mantenemos el tamaño para h2 en pantallas más grandes */
+    }
+}
+
+.left-icon, 
+.right-icon {
+    font-size: 1.2em;
+
+    @media (min-width: 600px) {
+        font-size: 1.5em;
+    }
+}
+
+.icon-link {
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    align-self: center; 
+    justify-content: center;
+}
+
+.icon-link:active, .icon-link:hover, .icon-link:focus {
+    color: inherit;
+}

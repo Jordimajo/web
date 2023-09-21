@@ -1,0 +1,67 @@
+.calendar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 16px 0; /* Agrega un margen arriba y abajo para separar los meses */
+    padding-top: 5px;
+    flex-direction: column;
+    /*align-items: center;*/
+  }
+  
+  .month {
+    width: 100%; /* Toma el ancho completo */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    border: 1px solid #e0e0e0;
+    padding: 16px;
+    border-radius: 8px;
+    margin: 16px;
+    width: calc(100% - 32px);
+  }
+  
+  .month-name {
+    width: 100%; /* Toma el ancho completo */
+    font-weight: bold;
+    margin-bottom: 16px; /* Espacio entre el nombre del mes y los días */
+  }
+  
+  .day-button {
+    border: 1px solid #e0e0e0;
+    padding: 8px;
+    border-radius: 8px;
+    text-align: center;
+    flex: 0 0 auto; /* Evita que los botones se estiren */
+  }
+  
+  .legend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1px; /* Disminuir este valor reduce el espacio debajo de la leyenda. */
+    justify-content: center;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin: 0 10px; /* Este valor controla el espacio entre los elementos de la leyenda. */
+}
+
+.color-box {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.legend-container {
+    margin-bottom: 10px;
+}
+
+.months-container {
+    width: 100%;
+    display: flex;
+}
+
+  

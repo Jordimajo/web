@@ -1,0 +1,57 @@
+.resultado {
+  border: 1px solid #e0e0e0;
+  padding: 16px;
+  border-radius: 8px;
+  margin: 16px;
+  text-align: center;
+  max-width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Añade una sombra ligera para darle profundidad */
+}
+
+h2, h3 {
+  font-size: 1.2em; 
+  margin-bottom: 16px; /* Añade espacio entre el título y el contenido siguiente */
+
+  @media (min-width: 600px) {
+    font-size: 1.5em;
+  }
+}
+
+p {
+  margin-bottom: 16px; /* Añade espacio entre el párrafo y el contenido siguiente */
+}
+
+.resumenProducto a {
+  display: inline-block; /* Hace que el enlace se comporte como un bloque pero solo ocupa el espacio necesario */
+  margin-bottom: 16px; /* Añade espacio entre el enlace y el contenido siguiente */
+  color: #007BFF;
+  text-decoration: none; /* Elimina el subrayado del enlace */
+  transition: color 0.3s; /* Añade una transición para el color del enlace al pasar el cursor por encima */
+}
+
+a:hover {
+  color: #0056b3; /* Cambia el color del enlace al pasar el cursor por encima */
+}
+
+button {
+  display: block;
+  margin: 12px auto;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: #FFF;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+
+  @media (min-width: 600px) {
+    padding: 8px 16px;
+    font-size: 1em;
+  }
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+  

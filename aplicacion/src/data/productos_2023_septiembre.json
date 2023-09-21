@@ -1,0 +1,471 @@
+{
+    "dia_13": [
+        {
+            "id": "13a",
+            "nombre": "Tarjeta Micro SDXC",
+            "imagen": "septiembre/13a.webp",
+            "descripcion": "Samsung Evo Plus MB-MC256KA/EU, 256 GB, Clase 10, V30, UHS-I,, Lectura 130 MB/s, Blanco",
+            "precio": 17.18,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.mediamarkt.es/es/product/_tarjeta-micro-sdxc-samsung-evo-plus-mb-mc256kaeu-256-gb-clase-10-v30-uhs-i-lectura-130-mbs-blanco-1518982.html",
+            "comercio": "Mediamark"
+        },
+        {
+            "id": "13b",
+            "nombre": "Iphone 14 pro",
+            "imagen": "septiembre/13b.avif",
+            "descripcion": "Color morado oscuro, 128GB de memoria",
+            "precio": 1209,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/electronica/A45097984-apple-iphone-14-pro-movil-libre/?parentCategoryId=999.23716186013&color=Morado%20oscuro",
+            "comercio": "El Corte Ingles"
+        },
+        {
+            "id": "13c",
+            "nombre": "Lavavajillas Candy",
+            "imagen": "septiembre/13c.jpeg",
+            "descripcion": "Nº de cubiertos:13 Clasificación energética:C Nivel Sonoro:47 dB Tipo de Indicador:Display Dimensiones del producto (AltoxAnchoXFondo):85.0 x 60.0 x 60.0",
+            "precio": 339.15,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.carrefour.es/lavavajillas-candy-cf3c7l0x-inox/VC4A-22783082/p",
+            "comercio": "Carrefour"
+        },
+        {
+            "id": "13d",
+            "nombre": "Lote Sartenes marca Bra",
+            "imagen": "septiembre/13d.avif",
+            "descripcion": "Set 20, 24 y 28 cm, Aluminio Fundido, Fondo Difusor, Apta Inducción, Mango Negro Baquelita, Revestimiento Antiadherente",
+            "precio": 64.1,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.miravia.es/p/i1355891641784985.html?spm=euspain.searchList.list.ditem_0.3ba0502erpxOZv&clickTrace=rn:0224948dae76283f5a194ecf73619f67;pos:0",
+            "comercio": "Miravia"
+        },
+        {
+            "id": "13e",
+            "nombre": "FONT VELLA 6,25 l",
+            "imagen": "septiembre/13e.jpeg",
+            "descripcion": "Agua mineral FONT VELLA garrafa de 6,25 l.",
+            "precio": 2.02,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.compraonline.alcampo.es/products/FONT-VELLA-Agua-mineral-FONT-VELLA-garrafa-de-6-25-l/36410",
+            "comercio": "Alcampo"
+        }
+    ],
+    "dia_14": [
+        {
+            "id": "14a",
+            "nombre": "Disco duro SSD 1 TB",
+            "imagen": "septiembre/14a.webp",
+            "descripcion": "Samsung 980 MZ-V8V1T0BW, 2.5 pulgadas, Interfaz PCIe Gen 3.0 x4, NVMe 1.4, Negro",
+            "precio": 44.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.mediamarkt.es/es/product/_disco-duro-ssd-1-tb-samsung-980-mz-v8v1t0bw-2-5-pulgadas-interfaz-pcie-gen-3-0-x4-nvme-1-4-negro-1504407.html",
+            "comercio": "Mediamark"
+        },
+        {
+            "id": "14b",
+            "nombre": "W 1 Zoom Air CMFT Air CMFT 25 Years In China",
+            "imagen": "septiembre/14b.webp",
+            "descripcion": "Zapatillas con logotipo especial del 25 aniversario, composicion 100% otras fibras",
+            "precio": 70,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://eu.oneblockdown.it/products/w-1-zoom-air-cmft-air-cmft-25-years-in-china-dv5575-140",
+            "comercio": "Otros"
+        },
+        {
+            "id": "14c",
+            "nombre": "PLAYMOBIL - Porsche Mission",
+            "imagen": "septiembre/14c.jpeg",
+            "descripcion": "Tipo:Playset de Acción Edad recomendada:Más de 5 años Licencia:PLAYMOBIL Garantía:36 Meses Valor Educativo:Estimulación de la Imaginación Pila:Si Número de pilas:7 Tipo de pila:4x 1,5V micro-batteries (AAA) + 3x 1,5V micro-batteries (AAA) Incluye pilas:No Batería:Si Incluye batería:Si Montaje Necesario:No Idioma:Multiidioma Luminoso:Si Sonoro / Musical:No",
+            "precio": 49,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.carrefour.es/playmobil-porsche-mission-e-5-anos/VC4A-14591194/p",
+            "comercio": "Carrefour"
+        },
+        {
+            "id": "14d",
+            "nombre": "Apple Watch Series 8",
+            "imagen": "septiembre/14d.jpeg",
+            "descripcion": "Smartwatch Apple Watch Series 8 GPS 41mm Negro",
+            "precio": 375.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.fnac.es/mp9360143/Smartwatch-Apple-Watch-Series-8-GPS-41mm-Negro/w-4",
+            "comercio": "Fnac"
+        },
+        {
+            "id": "14e",
+            "nombre": "Martillo de demolición",
+            "imagen": "septiembre/14e.webp",
+            "descripcion": "Martillo de demolición con gran potencia de percusión para trabajos de demolición en hormigón, piedra o mampostería.",
+            "precio": 79.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.lidl.es/es/martillo-de-demolicion/p58234",
+            "comercio": "Lidl"
+        }
+    ],
+    "dia_15": [
+        {
+            "id": "15a",
+            "nombre": "Camara INSTA360",
+            "imagen": "septiembre/15a.avif",
+            "descripcion": "Insta360 One RS Twin Edition: Cámara de acción de Lentes Intercambiables: Lente 4K 60fps y Lente 5.7K 360. Estabilización FlowState, Fotos de 48 MP, HDR Activo, Resistente al Agua, edición con IA",
+            "precio": 340.8,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/electronica/A43341221-camara-de-accion-insta360-one-rs-twin/?parentCategoryId=999.21875607013",
+            "comercio": "El Corte Ingles"
+        },
+        {
+            "id": "15b",
+            "nombre": "Cubiker Escritorio Eléctrico",
+            "imagen": "septiembre/15b.jpg",
+            "descripcion": "Cubiker Escritorio Eléctrico de Pie - 160 * 60 cm Mesa Altura Ajustable con Tablero, Sistema Anticolisión, Pies en T de Acero, Panel Control con 3 Funciones Memoria, Caja de Cable",
+            "precio": 164.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/Cubiker-Escritorio-El%C3%A9ctrico-Pie-Anticolisi%C3%B3n/dp/B0BHNK3YH4",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "15c",
+            "nombre": "HUAWEI WATCH GT 4 46mm",
+            "imagen": "septiembre/15c.avif",
+            "descripcion": "Carcasa y correa de acero inoxidable, pantalla a color amoled DE 1,43 pulgadas, GPS, duración de la bateria 14/7dias. con FreeBuds SE 2 y un año adicional de HUAWEI CARE de regalo. ",
+            "precio": 369.9,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://consumer.huawei.com/es/wearables/watch-gt4/buy/",
+            "comercio": "Otros"
+        },
+        {
+            "id": "15d",
+            "nombre": "Fairy Limpieza y Cuidado aloe vera",
+            "imagen": "septiembre/15d.jpg",
+            "descripcion": "Fairy Limpieza y Cuidado aloe vera y pepino, lavavajillas líquido con protección de la dermis beneficia la piel y combate la grasa, 1015 ml.",
+            "precio": 3.62,
+            "descuentos": "Compra recurrente más Cupón de 0,87 €",
+            "url": "https://www.amazon.es/Limpieza-Cuidado-Lavavajillas-Protecci%C3%B3n-Beneficia/dp/B081QGN4C9?th=1",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "15e",
+            "nombre": "Altavoz inteligente - Amazon Echo Pop",
+            "imagen": "septiembre/15e.jpeg",
+            "descripcion": "Altavoz inteligente - Amazon Echo Pop, Bluetooth con Alexa de sonido potente y compacto, Verde azulado",
+            "precio": 29.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.mediamarkt.es/es/product/_altavoz-inteligente-amazon-echo-pop-bluetooth-con-alexa-de-sonido-potente-y-compacto-lavanda-1554254.html",
+            "comercio": "Mediamark"
+        }
+    ],
+    "dia_16": [
+        {
+            "id": "16a",
+            "nombre": "Zapatillas Lite Plus 3",
+            "imagen": "septiembre/16a.webp",
+            "descripcion": "ZAPATILLAS RUNNING LIGERAS PARA EL DÍA A DÍA. Póntelas para correr y no te las quites en todo el día. Estas zapatillas de Reebok para hombre amortiguan tus pies con una entresuela FuelFoam, que proporciona confort óptimo y sujeción permanente. La suela exterior de goma para todo tipo de terrenos garantiza el agarre en superficies húmedas y secas.",
+            "precio": 23,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.reebok.eu/es-es/shopping/zapatillas-lite-plus-3-19729509",
+            "comercio": "Otros"
+        },
+        {
+            "id": "16b",
+            "nombre": "Monitor gaming Dell 27 - G2724D",
+            "imagen": "septiembre/16b.avif",
+            "descripcion": "Panel IPS de 27pulgadas, resolución QHD. Frecuencia de actualización de 165 Hz, tiempo de respuesta de 1 ms",
+            "precio": 245.74,
+            "descuentos": "Precio aplicando codigo descuento G2724D110ES",
+            "url": "https://www.dell.com/es-es/shop/monitor-gaming-dell-27-g2724d/apd/210-bhtk/monitores-y-accesorios",
+            "comercio": "Otros"
+        },
+        {
+            "id": "16c",
+            "nombre": "ColaCao Bebida con Cacao Natural, sin Aditivos, 760g",
+            "imagen": "septiembre/16c.jpg",
+            "descripcion": "Preparado alimenticio con cacao natural recogido a mano y secado al sol. ",
+            "precio": 4.46,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/ColaCao-Original-Cacao-Soluble-800/dp/B003XUIK8I/ref=sr_1_6?keywords=colacao&qid=1694871537&sr=8-6",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "16d",
+            "nombre": "Oddworld Soulstorm Limited Oddition",
+            "imagen": "septiembre/16d.jpg",
+            "descripcion": "Oddworld: Soulstorm es una secuela aún más grande, oscura y atrevida de la popular serie de plataformas de acción y aventura, y la segunda entrega de la pentalogía tras Oddworld: New 'n' Tasty. Esta nueva entrega se centra en la evolución de la rebelión iniciada en el episodio anterior. Los jugadores se pondrán en la piel de Abe, un héroe mudokon reticente que ha iniciado una revolución sin querer y que ahora debe liderar a sus compañeros en su lucha por la libertad contra el cártel de Magog y los líderes mundiales.",
+            "precio": 27.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/Meridiem-Games-Oddworld-Soulstorm-Oddition/dp/B0B5S6STGD/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=LYPY6PIXYH5A&keywords=oddworld+soulstorm+limited+edition&qid=1694871967&sprefix=oddworld+soulstorm+limited+oddition%2Caps%2C181&sr=8-1",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "16e",
+            "nombre": "Rambo - La Trilogía [Blu-ray]",
+            "imagen": "septiembre/16e.jpg",
+            "descripcion": "RAMBO, ACORRALADO. RAMBO II, ACORRALADO 2ª PARTE. RAMBO III",
+            "precio": 11.98,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/Rambo-Trilogy-Blu-ray/dp/B07VGTZ2Z6",
+            "comercio": "Amazon"
+        }
+    ],
+    "dia_17": [
+        {
+            "id": "17a",
+            "nombre": "Dyson v15 detect absolute",
+            "imagen": "septiembre/17a.avif",
+            "descripcion": "El láser muestra la suciedad invisible de los suelos duros para asegurarte de una limpieza completa. Un sensor acústico que mide y cuenta las partículas aspiradas y ajusta automáticamente la potencia según la cantidad de suciedad. La pantalla LCD muestra en tiempo real la cantidad y el tipo de suciedad aspirada, a demás de la autonomía disponible. Gira a 125k rpm generando 240 AW de potencia de succión. La tecnología DLS ™es capaz de ajustar la potencia automáticamente según el tipo de suelos. Previene el atasco de pelos y los aspira directamente. La tecnología ciclónica de Dyson y su diseño exclusivo capturan el 99.99% de las partículas microscópicas de hasta 0.3 micras.",
+            "precio": 679.15,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/electrodomesticos/A48432162-aspirador-de-escoba-recargable-dyson-v15-detect-absolute/?parentCategoryId=999.54521013",
+            "comercio": "El Corte Ingles"
+        },
+        {
+            "id": "17b",
+            "nombre": "Pack Teclado + Ratón - Logitech MK270",
+            "imagen": "septiembre/17b.webp",
+            "descripcion": "Todo lo que se le puede pedir a un teclado de escritorio, es todo lo que encontrarás en este fantástico set de Logitech. La marca líder en periféricos de ordenador vuelve a sorprendernos presentándonos un nuevo set de teclado más ratón inalámbrico: el Logitech MK270. Tecnología inalámbrica Con una tecnología inalámbrico avanzada de 2,4GHz que evita interrupciones, retrasos e interferencias en la señal, y ofrece un alcance de hasta 10 metros. Su receptor tipo conectar y olvidar es de un tamaño increíblemente pequeño, ideal para llevar siempre instalado en tu portátil o dejar colocado el nuestro sobremesa sin peligro de romperse debido a los golpes. De larga duración La teclado tiene una duración de pila de 24 meses y el ratón de 12 meses. Esto es ideal para olvidarnos durante mucho tiempo de las mismas y poder llevarnos ambos dispositivos allí donde queramos, sin necesidad de llevar con nosotros un recambio de pilas. Diseñado para ti El teclado tiene un diseño moderno, ergonómico y práctico. Cuenta con 8 botones de acceso directo a aplicaciones como internet, correo electrónico, botones de navegación y volumen. Además, es resistente a salpicaduras. Ya no tendrás que preocuparte por si se te derrama el agua cerca del mismo.",
+            "precio": 24.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.mediamarkt.es/es/product/_teclado-y-rat%C3%B3n-inal%C3%A1mbricos-logitech-mk270-nano-receptor-2-4-ghz-1188324.html",
+            "comercio": "Mediamark"
+        },
+        {
+            "id": "17c",
+            "nombre": "SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB",
+            "imagen": "septiembre/17c.jpg",
+            "descripcion": "SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB, con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura, Color negro/plateado",
+            "precio": 6.29,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/Memoria-Flash-SanDisk-Velocidad-Lectura/dp/B015CH1NAQ/ref=zg_bs_c_computers_sccl_1/261-4135158-6714316?pd_rd_w=dQ6fT&content-id=amzn1.sym.22a8c146-5655-4677-8e49-50eee0d1d0dc&pf_rd_p=22a8c146-5655-4677-8e49-50eee0d1d0dc&pf_rd_r=6Y78VHVNBFBMPFV9XRNZ&pd_rd_wg=3Wo25&pd_rd_r=71920b58-d4b7-499e-a41f-d2a66fca5252&pd_rd_i=B015CH1NAQ&psc=1",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "17d",
+            "nombre": "Vans Mochila",
+            "imagen": "septiembre/17d.jpg",
+            "descripcion": "mochila para portátil con funda acolchada interna para portátil. Capacidad: 22 litros. Dimensiones: 46 x 31 x 19 cm. Cierre: cremallera. Diseño casual de mochilas. 2 bolsillos laterales para botellas de agua.",
+            "precio": 36.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/Vans-Mochila-Unisex-Alumni-Blanco/dp/B0B1VQ7LJZ/ref=lp_28204341031_1_2",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "17e",
+            "nombre": "Cubo de basura Rotho Twist de 50 l ",
+            "imagen": "septiembre/17e.jpg",
+            "descripcion": "Cómoda papelera de plástico con tapa abatible y abatible, cierre silencioso de la tapa, papelera que ahorra espacio Bote de basura Look hecho de plástico (PP) de alta calidad en negro/plata oscura. Se pueden utilizar varios botes de basura de diferentes colores como centro de reciclaje, el borde ancho de la tapa oculta las bolsas de basura Higiene Limpieza sencilla de los contenedores y tapas de residuos: gracias al plástico de alta calidad, no se crean huellas dactilares - Contenedor de basura sin BPA Dimensiones: 40,1 x 29,8 x 60,2 cm (largo x ancho x alto). Cubo de basura con capacidad de 50 litros. También adecuado como papelera simple. Contenido del envío: 1 cubo de basura con tapa con función giratoria o plegable en negro/plata oscura, de plástico/plástico (PP), fabricado en Suiza Se abre mediante la función de balanceo o plegado",
+            "precio": 17.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/Rotho-7545008-basura-Polipropileno-Antracita/dp/B00JL5DQZQ/ref=rvi_sccl_6/261-4135158-6714316?pd_rd_w=5vmr6&content-id=amzn1.sym.ae62afe1-344b-4cc5-9de9-3f3a769592f2&pf_rd_p=ae62afe1-344b-4cc5-9de9-3f3a769592f2&pf_rd_r=TV200SR7BREZBCBJPGGX&pd_rd_wg=sujyq&pd_rd_r=c12bbf74-3295-4743-aa2c-66fba3019dd3&pd_rd_i=B00JL5DQZQ&th=1",
+            "comercio": "Amazon"
+        }
+    ],
+    "dia_18": [
+        {
+            "id": "18a",
+            "nombre": "PS5 Digital Edition C Chassis, 825 GB",
+            "imagen": "septiembre/18a.webp",
+            "descripcion": "Aprovecha la potencia de una unidad de estado sólido con E/S integradas, una CPU y una GPU personalizadas que reinventan las reglas de lo que una consola PlayStation es capaz de hacer. La integración a medida de los sistemas de la consola PS5™ permite a los desarrolladores extraer datos de la SSD tan rápido que son capaces de diseñar juegos de formas hasta ahora impensables. Gaming en 4K Juega a tus títulos de PS5™ favoritos en tu espléndido televisor 4K. Hasta 120 fps con salida a 120 Hz Disfruta de una experiencia de juego fluida hasta a 120 fps con juegos compatibles gracias a la salida a 120 Hz para pantallas 4K. Tecnología HDR Al conectar tu PS5™ a un televisor con HDR, los juegos compatibles se ven con una gama de colores increíblemente intensa y realista.",
+            "precio": 449,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.mediamarkt.es/es/product/_consola-sony-ps5-digital-edition-c-chassis-825-gb-4k-uhd-blu-ray-blanco-y-negro-1549107.html",
+            "comercio": "Mediamark"
+        },
+        {
+            "id": "18b",
+            "nombre": "Samsung Galaxy Buds2",
+            "imagen": "septiembre/18b.jpeg",
+            "descripcion": "Tipo de Auriculares:Botón Tipos de Conector:Conexión inalámbrica a través de bluetooth Alimentación (solo Inalambrico):Batería: 61 mAh /472 mAh Información adicional:Tus Galaxy Buds2 reconocerán las llamadas entrantes y cambiarán inmediatamente a tu Smartphone, cuando termine la llamada, podrás volver a disfrutar de tu serie o música. Dimensiones: 17.0 x 20.9 x 21.1 mm; Duración: Play: 5h / TTL 20h (ANC On 7.5h / TTL 29h (ANC Off Llamadas : 3.5h / TTL 13h (ANC On 3.5h / TTL 14h (ANC Off); Llamadas: DNN + 3 Mic + VPU; IPX2 , Despertador de Voz (Bixby Seamless AI).",
+            "precio": 69.90,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.carrefour.es/auriculares-inalambricos-samsung-galaxy-buds2-negro/VC4A-15257741/p",
+            "comercio": "Carrefour"
+        },
+        {
+            "id": "18c",
+            "nombre": "Gimnasio infantil de La Sirenita ",
+            "imagen": "septiembre/18c.jpg",
+            "descripcion": "Bright Starts, Disney Baby, Manta de Actividades y Juegos de La Sirenita con Luces y 25 Minutos de melodías, 6 Juguetes extraíbles y cojín de Apoyo, Color Morado, para recién Nacidos en adelante",
+            "precio": 40,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/dp/B09K4GKM19?ref=ppx_yo2ov_dt_b_product_details&th=1",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "18d",
+            "nombre": "Lego Disney y Pixar Casa de “Up”",
+            "imagen": "septiembre/18d.avif",
+            "descripcion": "Set de juguetes de construcción LEGO® | Disney y Pixar 43217 Casa de “Up”; una pieza de exposición construible y un regalo para fans de la película a partir de 9 años (598 piezas)",
+            "precio": 39.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.miravia.es/p/i1356433582325087-s2069851513826655.html?clickTrackInfo=item_discount_price:5384;ctcvr_score:0.0;rank_score:1.0;labAbId:;item_id:1356433582325087;item_price:5499;mt:hot_diversify;ctavr_score:0.0;sku_id:2069851513826655;match_score:1.0;self_app_id:37223;relative_pos:3;ctr_score:0.0;hero_shop_id:4303;pvid:fc6589d5-7444-4b0e-8f6c-66256e2c7f46;cvr_score:0.0;hero_item_brand_id:6564500;a2cr_score:0.0;hero_item_id:1356136181294502;hero_item_cate_id:62206891;self_ab_id:352668",
+            "comercio": "Miravia"
+        },
+        {
+            "id": "18e",
+            "nombre": "Vans Sk8-Hi MTE",
+            "imagen": "septiembre/18e.webp",
+            "descripcion": "diseño de caña alta parte superior de cuero resistente a la intemperie refuerzo de la puntera cierre de cordones cuello acolchado interior textil cálido suela de plataforma capa de retención del calor entre la plantilla y la suela suela dentada de goma vulcanizada para una construcción máxima.",
+            "precio": 59.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.footlocker.es/es/product/~/314520471104.html?channable=03fd8c6964003331343532303437313130343130309c&utm_source=google&utm_medium=cpc&utm_campaign=_1:es_2:performance_3:google_4:c_5:pmax+shopping_6:product_7:mix_8:always+on_9:multiple_10:na_16:%27(%3E15)%27&gclid=CjwKCAjwgZCoBhBnEiwAz35RwhpEdNLfYRQPJWqsx-VmwIlY9_uhYwL1-XaxMFAtRBWMwsi_JqesLBoCSxwQAvD_BwE&gclsrc=aw.ds&awc=23409_1694978649_6e42dbbe6453c22f8f07869c0d6277bb",
+            "comercio": "Otros"
+        }
+    ],
+    "dia_19": [
+        {
+            "id": "19a",
+            "nombre": "Xiaomi Robot Vacuum S12",
+            "imagen": "septiembre/19a.webp",
+            "descripcion": "Robot aspirador - Xiaomi Robot Vacuum S12, 45W, WiFi, Autonomía 130 min, Navegación láser , Sensor LDS, Control por app, Blanco",
+            "precio": 219,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.mediamarkt.es/es/product/_robot-aspirador-xiaomi-robot-vacuum-s12-45w-wifi-autonomia-130-min-navegacion-laser-sensor-lds-control-por-app-blanco-1551051.html",
+            "comercio": "Mediamark"
+        },
+        {
+            "id": "19b",
+            "nombre": "Monix Europa Juego de cubiertos 24 piezas acero inoxidable",
+            "imagen": "septiembre/19b.avif",
+            "descripcion": "Fabricado en acero inoxidable 18/C (AISI 420) de la mejor calidad Espesor 1,8 mm Composición: 6 cucharas (190 mm) 6 tenedores (190 mm) 6 cuchillos (210 mm) 6 cucharitas café (130 mm) Diseño atemporal para tu día a día Mango de líneas rectas Apto para lavado en lavavajillas Acabado brillante",
+            "precio": 16.99,
+            "descuentos": "Oferta más descuento de 3€ de tienda",
+            "url": "https://www.miravia.es/p/i1355820067768396-s2068538476587084.html?spm=euspain.store_hp.flash_sale.dundefined.439914e8PZpn2n&search=store",
+            "comercio": "Miravia"
+        },
+        {
+            "id": "19c",
+            "nombre": "Patinete XIAOMI 3 Lite",
+            "imagen": "septiembre/19c.jpeg",
+            "descripcion": "Más segura y fácil de conducir.\nSube pendientes de hasta 13%.\nPantalla incorporada.\nPlegado rápido (3 segundos).\nApp mi home compatible con android i ios\nResistencia al agua ipx4.",
+            "precio": 234.5,
+            "descuentos": "Unirse al club Norauto y Cupon XIAOMI50SEP",
+            "url": "https://www.norauto.es/p/patinete-xiaomi-3-lite-negro-2620083.html",
+            "comercio": "Otros"
+        },
+        {
+            "id": "19d",
+            "nombre": "Cazadora de mujer vaquera Molly Bracken ",
+            "imagen": "septiembre/19d.avif",
+            "descripcion": "Cazadora de mujer vaquera texturada con cuadros bicolor",
+            "precio": 53.94,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/moda-mujer/MP_0659870_842474-cazadora-de-mujer-vaquera-texturada-con-cuadros-bicolor/?color=Azul+marino",
+            "comercio": "El Corte Ingles"
+        },
+        {
+            "id": "19e",
+            "nombre": "Colgante Tous",
+            "imagen": "septiembre/19e.avif",
+            "descripcion": "Colgante Sketx de plata dark silver en forma de oso",
+            "precio": 49,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/moda-mujer/MP_0086322_018094525-colgante-sketx-de-plata-dark-silver-en-forma-de-oso/?color=Gris",
+            "comercio": "El Corte Ingles"
+        }
+    ],
+    "dia_20": [
+        {
+            "id": "20a",
+            "nombre": "Icon Light Star Wars Yoda",
+            "imagen": "septiembre/20a.avif",
+            "descripcion": "Ilumina cualquier estancia con esta original, mini lámpara con tu personaje favorito, Yoda, Star Wars.\n Dimensiones: 7,5 (ancho) x 7,5 (fondo) x 11 (alto) cm",
+            "precio": 10,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/regalos-originales/A45195140-icon-light-star-wars-yoda/",
+            "comercio": "El Corte Ingles"
+        },
+        {
+            "id": "20b",
+            "nombre": "PS5 EA Sports FC™ 24",
+            "imagen": "septiembre/20b.webp",
+            "descripcion": "EA SPORTS FC™ 24 abre paso a una nueva era para The World's Game: más de 19 000 futbolistas con licencia, 700 equipos y 30 ligas en la experiencia futbolística más auténtica hasta la fecha.\nSiente cada partido como nunca antes con tres tecnologías de vanguardia que ofrecen un realismo sin parangón en todos los partidos: HyperMotionV**, PlayStyles optimizado por Opta y el nuevo motor de Frostbite™.\nHyperMotionV captura los partidos tal y como se juegan de verdad gracias a la recopilación de datos volumétricos de más de 180 partidos de fútbol masculino y femenino profesionales para garantizar que los movimientos durante cada encuentro reflejan con precisión la acción del mundo real en el campo.",
+            "precio": 59.99,
+            "descuentos": "Descuento al tramitar pedido",
+            "url": "https://www.mediamarkt.es/es/product/_ps5-ea-sports-fc-24-1557378.html",
+            "comercio": "Mediamark"
+        },
+        {
+            "id": "20c",
+            "nombre": "HP OMEN 24",
+            "imagen": "septiembre/20c.jpg",
+            "descripcion": "HP OMEN 24 Monitor Gaming de 24 FHD (1920 x 1080 a 165 Hz, IPS, 16:9, 1ms, HDMI, Antirreflejo, DisplayPort, AMD FreeSync Premium, Compatible con Consolas, Altura e Inclinación Ajustable) Negro",
+            "precio": 159.2,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/HP-OMEN-Monitor-Gaming-1920/dp/B0C4YV3J4M",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "20d",
+            "nombre": "Hacha de 36 cm",
+            "imagen": "septiembre/20d.jpg",
+            "descripcion": "Hoja de acero al carbono\nMango de fibra de vidrio\nMango ergonómico\nDuradero\nInoxidable\nVerde y negro\nAmazonBasics Hacha: 37,8 x 12,4 x 2,54 cm, 757 g",
+            "precio": 14.3,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/AmazonBasics-JC106-Hacha-36-cm/dp/B07VWHXYXN?th=1",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "20e",
+            "nombre": "Finish 6x Ambientador Lavavajillas Limón",
+            "imagen": "septiembre/20e.avif",
+            "descripcion": "¿Lavavajillas que desprende mal olor? Entre lavado y lavado los residuos pueden provocar la aparición de mal olor en tu lavavajillas. Gracias a su exclusiva tecnología Anti-olor, Finish Ambientador ofrece un control del olor 100% mejor para que puedas disfrutar del fresco aroma a lima y limón cada vez que abres tu lavavajillas, evitando cualquier transferencia de aromas en la vajilla durante el lavado.\n• Finish ambientador te ofrece mayor frescor entre lavados gracias a su tecnología anti-olor\n• Evita la aparición del mal olor en el lavavajillas\n• Ofrece un fresco aroma a lima y limón cada vez que abres el lavavajillas\n• Fácil de utilizar: fija el ambientador Finish en una bandeja del lavavajillas o cuélgalo de la bandeja superior sin bloquear los brazos aspersores.\n• Finish es la marca nº1 recomendada por los principales fabricantes de lavavajillas\nAdvertencia de Seguridad\nAtención. Signo de exclamación. Provoca irritación cutánea. Nocivo para los organismos acuáticos, con efectos nocivos duraderos.",
+            "precio": 12.14,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.miravia.es/p/i1355877777511577.html",
+            "comercio": "Miravia"
+        }
+    ],
+    "dia_21": [
+        {
+            "id": "21a",
+            "nombre": "Taza de cerámica en forma de cono",
+            "imagen": "septiembre/tutorial.webp",
+            "descripcion":
+                "Taza de cerámica áspera de 100ML, taza de café de cerámica de cono Retro creativo.\nMedidas: Cono 4.3cm x 4.3cm, Taza + Cono 8.8cm x 8cm",
+            "precio": 6.38,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://es.aliexpress.com/item/1005005985979199.html?spm=a2g0o.productlist.main.17.45da9b91Kfzg14&algo_pvid=090cbf3d-4beb-41ae-953c-dbf06e1b7627&algo_exp_id=090cbf3d-4beb-41ae-953c-dbf06e1b7627-8&pdp_npi=4%40dis%21EUR%219.25%216.38%21%21%2170.28%21%21%40211b600416952805577153078e1b94%2112000035187123370%21sea%21ES%210%21ABS&curPageLogUid=0uygdKaVKHgE",
+            "comercio": "Otros"
+        },
+        {
+            "id": "20b",
+            "nombre": "PS5 EA Sports FC™ 24",
+            "imagen": "septiembre/20b.webp",
+            "descripcion": "EA SPORTS FC™ 24 abre paso a una nueva era para The World's Game: más de 19 000 futbolistas con licencia, 700 equipos y 30 ligas en la experiencia futbolística más auténtica hasta la fecha.\nSiente cada partido como nunca antes con tres tecnologías de vanguardia que ofrecen un realismo sin parangón en todos los partidos: HyperMotionV**, PlayStyles optimizado por Opta y el nuevo motor de Frostbite™.\nHyperMotionV captura los partidos tal y como se juegan de verdad gracias a la recopilación de datos volumétricos de más de 180 partidos de fútbol masculino y femenino profesionales para garantizar que los movimientos durante cada encuentro reflejan con precisión la acción del mundo real en el campo.",
+            "precio": 59.99,
+            "descuentos": "Descuento al tramitar pedido",
+            "url": "https://www.mediamarkt.es/es/product/_ps5-ea-sports-fc-24-1557378.html",
+            "comercio": "Mediamark"
+        },
+        {
+            "id": "20c",
+            "nombre": "HP OMEN 24",
+            "imagen": "septiembre/20c.jpg",
+            "descripcion": "HP OMEN 24 Monitor Gaming de 24 FHD (1920 x 1080 a 165 Hz, IPS, 16:9, 1ms, HDMI, Antirreflejo, DisplayPort, AMD FreeSync Premium, Compatible con Consolas, Altura e Inclinación Ajustable) Negro",
+            "precio": 159.2,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/HP-OMEN-Monitor-Gaming-1920/dp/B0C4YV3J4M",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "20d",
+            "nombre": "Hacha de 36 cm",
+            "imagen": "septiembre/20d.jpg",
+            "descripcion": "Hoja de acero al carbono\nMango de fibra de vidrio\nMango ergonómico\nDuradero\nInoxidable\nVerde y negro\nAmazonBasics Hacha: 37,8 x 12,4 x 2,54 cm, 757 g",
+            "precio": 14.3,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/AmazonBasics-JC106-Hacha-36-cm/dp/B07VWHXYXN?th=1",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "20e",
+            "nombre": "Finish 6x Ambientador Lavavajillas Limón",
+            "imagen": "septiembre/20e.avif",
+            "descripcion": "¿Lavavajillas que desprende mal olor? Entre lavado y lavado los residuos pueden provocar la aparición de mal olor en tu lavavajillas. Gracias a su exclusiva tecnología Anti-olor, Finish Ambientador ofrece un control del olor 100% mejor para que puedas disfrutar del fresco aroma a lima y limón cada vez que abres tu lavavajillas, evitando cualquier transferencia de aromas en la vajilla durante el lavado.\n• Finish ambientador te ofrece mayor frescor entre lavados gracias a su tecnología anti-olor\n• Evita la aparición del mal olor en el lavavajillas\n• Ofrece un fresco aroma a lima y limón cada vez que abres el lavavajillas\n• Fácil de utilizar: fija el ambientador Finish en una bandeja del lavavajillas o cuélgalo de la bandeja superior sin bloquear los brazos aspersores.\n• Finish es la marca nº1 recomendada por los principales fabricantes de lavavajillas\nAdvertencia de Seguridad\nAtención. Signo de exclamación. Provoca irritación cutánea. Nocivo para los organismos acuáticos, con efectos nocivos duraderos.",
+            "precio": 12.14,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.miravia.es/p/i1355877777511577.html",
+            "comercio": "Miravia"
+        }
+    ]
+}
