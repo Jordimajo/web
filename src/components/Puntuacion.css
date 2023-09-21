@@ -1,0 +1,37 @@
+.puntuacion {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px;
+    padding: 8px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+}
+
+.puntuacion span {
+    font-size: 0.9em; /* tamaño base para el texto */
+    @media (min-width: 600px) {
+        font-size: 1em; /* Ajusta el tamaño para pantallas más grandes */
+    }
+}
+
+.puntuacion-bar-container {
+    display: flex;
+    align-items: center;
+}
+
+.puntuacion-bar-background {
+    width: 100px;
+    height: 10px;
+    background-color: #e0e0e0;
+    margin-right: 10px;
+    position: relative;
+    @media (min-width: 600px) {
+        width: 150px; /* Aumenta el tamaño para pantallas más grandes */
+    }
+}
+
+.puntuacion-bar-fill {
+    height: 10px;
+    background-color: #4caf50;
+}

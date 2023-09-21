@@ -1,0 +1,56 @@
+.sidebar-container {
+  position: relative;
+  font-size: 32px;  /* Incrementamos un poco el tamaño para móviles */
+  margin-right: 15px;  /* Reduzca el margen para dispositivos móviles */
+}
+
+.menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 250px; /* Ampliamos un poco para dispositivos móviles */
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  padding: 12px;  /* Aumentamos el padding para una mejor táctilidad en móviles */
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  font-size: 16px;  /* Ajuste el tamaño del texto según lo necesario para dispositivos móviles */
+}
+
+.menu li:last-child {
+  border-bottom: none;
+}
+
+.menu li:hover {
+  background-color: #f5f5f5;
+}
+
+/* Estilos para pantallas más grandes */
+@media (min-width: 600px) {
+  .sidebar-container {
+      font-size: 28px;
+      margin-right: 25px;
+  }
+
+  .menu {
+      width: 200px;  /* Reducimos el ancho para pantallas más grandes */
+  }
+
+  .menu li {
+      padding: 10px;
+      font-size: 14px;  /* Reduzca el tamaño del texto para pantallas más grandes */
+  }
+}
+
+  

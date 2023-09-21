@@ -1,0 +1,52 @@
+.producto {
+  border: 1px solid #e0e0e0;
+  padding: 16px;
+  border-radius: 8px;
+  margin: 16px;
+  text-align: center;
+  max-width: 100%; /* Asegura que el componente no exceda el ancho de la pantalla */
+}
+
+.producto-imagen {
+  max-width: 80%;   /* Establece el ancho máximo a 80% de su contenedor */
+  max-height: 250px; /* Establece una altura máxima para la imagen */
+  height: auto;    /* Mantiene la proporción de la imagen */
+  display: block;
+  margin: 0 auto;  /* Centra la imagen horizontalmente */
+}
+
+h2 {
+  font-size: 1.2em; /* tamaño base para el título del producto */
+
+  @media (min-width: 600px) {
+    font-size: 1.5em; /* Aumenta el tamaño en pantallas más grandes */
+  }
+}
+
+button {
+  display: block;
+  margin: 12px auto;
+  padding: 10px 20px; /* Aumenta el padding para pantallas pequeñas */
+  background-color: #007BFF;
+  color: #FFF;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em; /* tamaño base para el texto del botón */
+
+  @media (min-width: 600px) {
+    padding: 8px 16px;
+    font-size: 1em; /* Ajusta el tamaño para pantallas más grandes */
+  }
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.producto-descripcion {
+  white-space: pre-line;
+}
+
+
+
