@@ -34,7 +34,7 @@ const cargarProductosDelDia = async (fecha = new Date()) => {
 
 const obtenerFechaDesdeAPI = async () => {
     try {
-        const response = await fetch("http://worldtimeapi.org/api/timezone/Etc/UTC");
+        const response = await fetch("https://worldtimeapi.org/api/timezone/Etc/UTC");
         const data = await response.json();
 
         if (data && data.utc_datetime) {
