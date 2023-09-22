@@ -32,4 +32,14 @@ const cargarProductosDelDia = async (fecha = new Date()) => {
     }
 };
 
-export { cargarProductosDelDia };
+const getUTCDate = () => {
+    const now = new Date();
+
+    const year = now.getUTCFullYear();
+    const month = now.getUTCMonth();
+    const day = now.getUTCDate();
+
+    return { year, month, day };
+}
+
+export { cargarProductosDelDia, getUTCDate };

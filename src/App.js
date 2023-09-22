@@ -6,7 +6,7 @@ import PrecioSlider from './components/PrecioSlider';
 import Header from './components/layout/Header';
 import { comprobarYActualizarPuntos } from './utils/comprobar';
 import { haJugadoElDia, obtenerPuntosDelDia } from './utils/storage';
-import { cargarProductosDelDia } from './utils/carga';
+import { cargarProductosDelDia, getUTCDate } from './utils/carga';
 import Puntuacion from './components/Puntuacion';
 import ResumenProducto from './components/ResumenProducto';
 import CalendarioPage from './pages/CalendarioPage';
@@ -20,7 +20,8 @@ const App = () => {
   const [productoActual, setProductoActual] = useState(null);
   const [precioEstimado, setPrecioEstimado] = useState(0);
   const [mostrarResultado, setMostrarResultado] = useState(false);
-  const fechaHoy = new Date().toISOString().slice(0, 10);
+  const fechaUTC = getUTCDate();
+  const fechaHoy = `${fechaUTC.year}-${String(fechaUTC.month + 1).padStart(2, '0')}-${String(fechaUTC.day).padStart(2, '0')}`;
   const [puntosRecientes, setPuntosRecientes] = useState(0);
   const [mostrarResumenFinal, setMostrarResumenFinal] = useState(false);
   const [productosDelDia, setProductosDelDia] = useState([]);
