@@ -20,11 +20,19 @@ const App = () => {
   const [productoActual, setProductoActual] = useState(null);
   const [precioEstimado, setPrecioEstimado] = useState(0);
   const [mostrarResultado, setMostrarResultado] = useState(false);
-  const fechaUTC = getUTCDate();
-  const fechaHoy = `${fechaUTC.year}-${String(fechaUTC.month + 1).padStart(2, '0')}-${String(fechaUTC.day).padStart(2, '0')}`;
+  const [fechaHoy, setFechaHoy] = useState("");
   const [puntosRecientes, setPuntosRecientes] = useState(0);
   const [mostrarResumenFinal, setMostrarResumenFinal] = useState(false);
   const [productosDelDia, setProductosDelDia] = useState([]);
+
+  useEffect(() => {
+    const fetchFechaUTC = async () => {
+      const fechaUTC = await getUTCDate();
+      const fechaFormateada = `${fechaUTC.year}-${String(fechaUTC.month + 1).padStart(2, '0')}-${String(fechaUTC.day).padStart(2, '0')}`;
+      setFechaHoy(fechaFormateada);
+    };
+    fetchFechaUTC();
+  }, []);
 
   const cargarProductoPorIndice = (indice) => {
     cargarProductosDelDia().then(productos => {
@@ -57,7 +65,7 @@ const App = () => {
     setMostrarResultado(false);
   };
 
-
+  console.log("Fecha de la API:", fechaHoy);
   return (
     <Router>
       <div className="App">

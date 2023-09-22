@@ -32,14 +32,38 @@ const cargarProductosDelDia = async (fecha = new Date()) => {
     }
 };
 
-const getUTCDate = () => {
-    const now = new Date();
+const obtenerFechaDesdeAPI = async () => {
+    try {
+        const response = await fetch("http://worldtimeapi.org/api/timezone/Etc/UTC");
+        const data = await response.json();
 
-    const year = now.getUTCFullYear();
-    const month = now.getUTCMonth();
-    const day = now.getUTCDate();
+        if (data && data.utc_datetime) {
+            const fechaAPI = new Date(data.utc_datetime);
+            return {
+                year: fechaAPI.getUTCFullYear(),
+                month: fechaAPI.getUTCMonth(),
+                day: fechaAPI.getUTCDate()
+            };
+        }
+    } catch (error) {
+        console.error("Error al obtener la fecha UTC desde la API:", error);
+    }
+    return null;
+};
 
-    return { year, month, day };
-}
+const getUTCDate = async () => {
+    const fechaDesdeAPI = await obtenerFechaDesdeAPI();
+
+    if (fechaDesdeAPI) {
+        return fechaDesdeAPI;
+    } else {
+        const now = new Date();
+        const year = now.getUTCFullYear();
+        const month = now.getUTCMonth();
+        const day = now.getUTCDate();
+
+        return { year, month, day };
+    }
+};
 
 export { cargarProductosDelDia, getUTCDate };
