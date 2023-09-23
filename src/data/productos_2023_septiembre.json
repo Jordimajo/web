@@ -571,5 +571,56 @@
             "url": "https://www.amazon.es/Hisense-WFQA8014EVJMW-Conectividad-Eficiente-Antibalanceo/dp/B0BXFCJNBB/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3T0A8Z0PE933Z&keywords=Hisense+WFQA8014EVJMW&qid=1695424334&sprefix=hisense+wfqa8014evjmw%2Caps%2C175&sr=8-1",
             "comercio": "Amazon"
         }
+    ],
+    "dia_24": [
+        {
+            "id": "24a",
+            "nombre": "Hasbro SISTEMA DE JUEGO HEROQUEST",
+            "imagen": "septiembre/24a.avif",
+            "precio": 76.99,
+            "descuentos": "Cupon 15% + ofertaq flash",
+            "url": "https://www.miravia.es/p/i1356073190927706.html?spm=euspain.searchList.list.ditem_0.15ec1a555Fo1Vj&clickTrace=rn:58bf1bec3b940a6f5e6e48b4c5316bc7;pos:0",
+            "comercio": "Miravia"
+        },
+        {
+            "id": "24b",
+            "nombre": "Ravensburger Puzzle, Pac-man 1000 piezas",
+            "imagen": "septiembre/24b.jpg",
+            "descripcion": "Tamaño del puzzle terminado: 70 x 50 cm, 1000 piezas, tamaño de la caja: 33,5 x 23,1 x 3,7 cm\nDesde puzzles para niños hasta el más grande del mundo, Ravensburger tiene un puzzle para todos; cada diseño está pensado al detalle, cada pieza hecha con materiales de calidad y artesanía para garantizar una experiencia incomparable\nLa tecnología softclick garantiza un encaje siempre optimo y gratificante\nTodos los puzzles Ravensburger tienen un acabado especial antirreflectante y una robustez a prueba de errores\nEcológico: producto fabricado mediante el uso extensivo de materiales reciclados o derivados de bosques sostenibles",
+            "precio": 6,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/dp/B09RZZTKNQ?smid=A1AT7YVPFBWXBL",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "24c",
+            "nombre": "OnePlus 9 Pro 8gb 128gb",
+            "imagen": "septiembre/24c.webp",
+            "descripcion": "Modelo---------- OnePlus 9 Pro\nPantalla--------6.7'', 20,1: 9, 3216x1440 502 PPI,120Hz Fluid AMOLED, SRGB, pantalla P3, profundidad de color de 10 bits\nSO-------------- OxygenOS basado en Android 11\nCPU------------Qualcomm Snapdragon 888, Chipset 5G: X60\nAlmacenamiento------- 8GB RAM + 128GB ROM / 8GB RAM + 256GB ROM / 12GB RAM + 256GB ROM\nBatería-------- 4500mAh,Warp Charge 65T(10V/6.5A), Carga inalámbrica 50W\nCámara trasera--------- 48MP(IMX789)+ 50MP(IMX766)+ 8MP + 2MP\nCámara frontal------- 16MP(IMX471), desbloqueo facial\nCaracterísticas------Versión globalAdmite SERVICIO DE Google, varios idiomas y actualización OTA, Huella Digital en pantalla, Bluetooth 5,2, NFC.",
+            "precio": 369,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://es.aliexpress.com/item/1005005889316841.html?gatewayAdapt=glo2esp&dp=01HB22SVZEGMSMVMKJ4DHKZSDW&aff_fcid=d1745bfd2562486990f9a84a92aee5ea-1695508394063-06839-NUUJNoAU&aff_fsk=NUUJNoAU&aff_platform=promotion&sk=NUUJNoAU&aff_trace_key=d1745bfd2562486990f9a84a92aee5ea-1695508394063-06839-NUUJNoAU&terminal_id=e5dbc79455c64568bbdb849b6e817c9d&afSmartRedirect=y",
+            "comercio": "Aliexpress"
+        },
+        {
+            "id": "24d",
+            "nombre": "Mr. Wonderful, Agenda escolar 2023-2024",
+            "imagen": "septiembre/24d.avif",
+            "descripcion": "Agenda de estilo Office de Mr. Wonderful, con planificación para 18 meses en los que disfrutar sin parar ¡y sin olvidar ningún planazo!\nEsta agenda es de organización semanal y va de julio de 2023 a diciembre de 2024. Su encuadernación, en espiral oculta, le aporta un toque sofisticado. Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel obtenido de bosques gestionados de forma responsable.\nEsta agenda contiene: 226 páginas realizadas en papel de 90 gr con certificación FSC. Frases diarias motivacionales. Separadores con pestaña para cada mes. Encuadernación en espiral oculta. Bolsillo interior de cartón. Regla de plástico interior. 8 hojas de pegatinas. Horarios y calendarios (del último trimestre de 2023 y de 2024 y 2025 completos). Páginas para anotar contactos. Tablas de ahorro. Cierre con goma elástica. Planificador mensual al inicio de cada mes. Blocs de notas adhesivas con formas. Playlist exclusiva. Frases mensuales superdivertidas.\nPapel 90 gramos, metal, goma elastica textil",
+            "precio": 10.45,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/regalos-originales/A47865570-agenda-escolar-2023-2024-semanal-18-meses-mr-wonderfulaqui-hay-mucho-que-disfrutar/",
+            "comercio": "El Corte Ingles"
+        },
+        {
+            "id": "24e",
+            "nombre": "Cecotec Exprimidor eléctrico",
+            "imagen": "septiembre/24e.avif",
+            "descripcion": "Exprimidor de torre eléctrico de 350 W con dos conos desmontables, regulador de pulpa, filtro de acero inoxidable y boquilla antigoteo. Exprimidor eléctrico automático para cítricos de 350 W de potencia. Resultados más rápidos y eficientes. Incluye filtro con regulador de pulpa ajustable que permite hacer zumos con más o menos pulpa. Cuenta con un segundo filtro de acero inoxidable para una limpieza más fácil y cómoda. Dos conos desmontables, para cítricos más pequeños o más grandes. Encendido automático con solo presionar el cono con la fruta. Tambor BPA-free, calibrado en ml con capacidad de 0,5 l. Boquilla con sistema antigoteo para un vertido más fácil y limpio. Sistema de extracción continua para una mayor comodidad. Piezas no eléctricas aptas para el lavavajillas. Exprimidor eléctrico Filtro con regulador de pulpa Filtro de acero inoxidable Dos conos desmontables Tapa antipolvo Manual de instrucciones",
+            "precio": 16.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.miravia.es/p/i1355785251161240-s2068488851174552.html?spm=euspain.store_flash_sale.mrv_flashsale_lp.dundefined.64064783vPxuTU&search=store",
+            "comercio": "Miravia"
+        }
     ]
 }
