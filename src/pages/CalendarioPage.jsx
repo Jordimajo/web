@@ -3,6 +3,7 @@ import { isToday, format, addDays, isBefore } from 'date-fns';
 import { resumenDiasJugados } from '../utils/storage';
 import './CalendarioPage.css';
 import { useNavigate } from 'react-router-dom';
+import { getUTCDate } from '../utils/carga';
 
 function Calendario() {
     const [days, setDays] = useState([]);
@@ -11,24 +12,29 @@ function Calendario() {
 
 
     useEffect(() => {
-        const startDay = new Date(2023, 8, 13);
-        const today = new Date();
-
-        const calendarDays = [];
-
-        for (let day = startDay; isBefore(day, today) || isToday(day); day = addDays(day, 1)) {
-            calendarDays.push(day);
-        }
-
-        setDays(calendarDays);
+        const fetchData = async () => {
+            const startDay = new Date(2023, 8, 13);
+            const today = await getUTCDate();
+    
+            const calendarDays = [];
+    
+            for (let day = startDay; isBefore(day, today) || isToday(day); day = addDays(day, 1)) {
+                calendarDays.push(day);
+            }
+    
+            setDays(calendarDays);
+        };
+    
+        fetchData();
     }, []);
+    
 
     const handleDayClick = (formattedDate) => {
         navigate(`/jugar/${formattedDate}`);
     };
 
     const generateDaysByMonth = days => {
-        return days.reduce((acc, day) => {
+        const groupedDays = days.reduce((acc, day) => {
             const monthYearKey = format(day, 'MMMM yyyy');
             if (!acc[monthYearKey]) {
                 acc[monthYearKey] = [];
@@ -36,6 +42,8 @@ function Calendario() {
             acc[monthYearKey].push(day);
             return acc;
         }, {});
+        
+        return groupedDays;
     };
 
     const daysByMonth = generateDaysByMonth(days);

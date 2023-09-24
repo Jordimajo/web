@@ -38,12 +38,7 @@ const obtenerFechaDesdeAPI = async () => {
         const data = await response.json();
 
         if (data && data.utc_datetime) {
-            const fechaAPI = new Date(data.utc_datetime);
-            return {
-                year: fechaAPI.getUTCFullYear(),
-                month: fechaAPI.getUTCMonth(),
-                day: fechaAPI.getUTCDate()
-            };
+            return data.utc_datetime;
         }
     } catch (error) {
         console.error("Error al obtener la fecha UTC desde la API:", error);
@@ -51,19 +46,25 @@ const obtenerFechaDesdeAPI = async () => {
     return null;
 };
 
+
 const getUTCDate = async () => {
     const fechaDesdeAPI = await obtenerFechaDesdeAPI();
 
     if (fechaDesdeAPI) {
-        return fechaDesdeAPI;
-    } else {
-        const now = new Date();
-        const year = now.getUTCFullYear();
-        const month = now.getUTCMonth();
-        const day = now.getUTCDate();
+        const match = fechaDesdeAPI.match(/^(\d+)-(\d+)-(\d+)T/);
+        if (match) {
+            const year = parseInt(match[1], 10);
+            const month = parseInt(match[2], 10) - 1; 
+            const day = parseInt(match[3], 10);
 
-        return { year, month, day };
+            return new Date(Date.UTC(year, month, day));
+        }
     }
+
+    return new Date();
 };
+
+
+
 
 export { cargarProductosDelDia, getUTCDate };

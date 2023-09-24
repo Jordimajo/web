@@ -28,14 +28,15 @@ const App = () => {
   useEffect(() => {
     const fetchFechaUTC = async () => {
       const fechaUTC = await getUTCDate();
-      const fechaFormateada = `${fechaUTC.year}-${String(fechaUTC.month + 1).padStart(2, '0')}-${String(fechaUTC.day).padStart(2, '0')}`;
+      const fechaFormateada = `${fechaUTC.getFullYear()}-${String(fechaUTC.getMonth() + 1).padStart(2, '0')}-${String(fechaUTC.getDate()).padStart(2, '0')}`;
       setFechaHoy(fechaFormateada);
     };
     fetchFechaUTC();
-  }, []);
+}, []);
 
+  const fechaObjeto = new Date(fechaHoy);
   const cargarProductoPorIndice = (indice) => {
-    cargarProductosDelDia().then(productos => {
+    cargarProductosDelDia(fechaObjeto ).then(productos => {
       setProductosDelDia(productos);
       if (indice !== -1 && productos.length > indice) {
         setProductoActual(productos[indice]);
@@ -48,9 +49,12 @@ const App = () => {
   };
 
   useEffect(() => {
-    const indiceProducto = haJugadoElDia(fechaHoy);
-    cargarProductoPorIndice(indiceProducto);
+    if (fechaHoy) {
+      const indiceProducto = haJugadoElDia(fechaHoy);
+      cargarProductoPorIndice(indiceProducto);
+    }
   }, [fechaHoy]);
+
 
   const comprobarPrecio = () => {
     const puntosGanados = comprobarYActualizarPuntos(fechaHoy, precioEstimado, productoActual.precio);
@@ -65,7 +69,6 @@ const App = () => {
     setMostrarResultado(false);
   };
 
-  console.log("Fecha de la API:", fechaHoy);
   return (
     <Router>
       <div className="App">
