@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useCallback, useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Producto from './components/Producto';
@@ -32,11 +32,11 @@ const App = () => {
       setFechaHoy(fechaFormateada);
     };
     fetchFechaUTC();
-}, []);
+  }, []);
 
-  const fechaObjeto = new Date(fechaHoy);
-  const cargarProductoPorIndice = (indice) => {
-    cargarProductosDelDia(fechaObjeto ).then(productos => {
+  const cargarProductoPorIndice = useCallback((indice) => {
+    const fechaObjetoLocal = new Date(fechaHoy);
+    cargarProductosDelDia(fechaObjetoLocal).then(productos => {
       setProductosDelDia(productos);
       if (indice !== -1 && productos.length > indice) {
         setProductoActual(productos[indice]);
@@ -46,14 +46,18 @@ const App = () => {
         setMostrarResumenFinal(true);
       }
     });
-  };
+  }, [fechaHoy, setProductosDelDia, setProductoActual, setMostrarResumenFinal]);
+  
+  
+  
 
   useEffect(() => {
     if (fechaHoy) {
       const indiceProducto = haJugadoElDia(fechaHoy);
       cargarProductoPorIndice(indiceProducto);
     }
-  }, [fechaHoy]);
+  }, [fechaHoy, cargarProductoPorIndice]);
+
 
 
   const comprobarPrecio = () => {
@@ -101,7 +105,7 @@ const App = () => {
                   precioReal={productoActual.precio}
                   precioCorrecto={mostrarResultado ? productoActual.precio : null}
                 />
-                
+
                 {!mostrarResultado && <button onClick={comprobarPrecio}>Comprobar</button>}
 
               </div>
