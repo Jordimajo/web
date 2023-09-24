@@ -519,5 +519,57 @@
             "url": "https://www.arenal.com/foxy-papel-higienico-neutro-seda-4-rollos/p/000000000000034738",
             "comercio": "Otros"
         }
+    ],
+    "dia_23": [
+        {
+            "id": "23a",
+            "nombre": "SUPER MARIO BROS. WONDER",
+            "imagen": "septiembre/23a.avif",
+            "descripcion": "RESERVA SUPER MARIO BROS. WONDER JUEGO FÍSICO PARA NINTENDO SWITCH\nLANZAMIENTO: 20 DE OCTUBRE 2023",
+            "precio": 42.42,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.miravia.es/p/i1356598715762916.html",
+            "comercio": "Miravia"
+        },
+        {
+            "id": "23b",
+            "nombre": "Colhogar Maxirolls 24 Rollos",
+            "imagen": "septiembre/23b.jpg",
+            "descripcion": "Colhogar Paratodo Maxirolls: es el rollo triple de Colhogar para los que buscan calidad y duración\nDura el triple: el papel de cocina Colhogar Paratodo es muy resistente, y es el triple de largo - Ideal para absorber, secar y limpiar - Resiste incluso cuando está mojado\nPapel de cocina multiusos: papel de cocina para todas las tareas alrededor del hogar como por ejemplo: limpiar líquidos derramados, limpieza de ventanas y apto para el contacto con alimentos\nCírculos Colhogar super absorbentes: gracias al diseño de los círculos absorbentes de Colhogar, todas las tareas del hogar estarán bajo control\nFormato: 24 rollos de papel cocina Colhogar Paratodo Multirolls de triple duración - Disponible en formato de 2, 4, 6 y 12 rollos",
+            "precio": 19.33,
+            "descuentos": "Compra recurrente más cupón 35%",
+            "url": "https://www.amazon.es/Colhogar-Papel-Cocina-Mega-Rollos/dp/B07QP8NT9B",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "23c",
+            "nombre": "SAMSUNG Galaxy S23+, cargador 45w",
+            "imagen": "septiembre/23c.jpg",
+            "descripcion": "SAMSUNG Galaxy S23+, 256GB + Cargador de 45W - Smartphone Android, Batería de 4700 mAh, Smartphone Desbloqueado, Color Beige (Versión Española)\n TARJETA REGALO 100€",
+            "precio": 899.01,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/SAMSUNG-Galaxy-S23-256GB-Cargador/dp/B0BQRTCTYY/ref=cs_sr_dp_2?keywords=SAMSUNG%2BGalaxy%2BS23%2B&qid=1695423753&sr=8-2&th=1",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "23d",
+            "nombre": "Taza Mr. Wonderful",
+            "imagen": "septiembre/23d.avif",
+            "descripcion": "Taza Mr. Wonderful: No hay nadie como tú de aquí a Honolulú",
+            "precio": 4,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.elcorteingles.es/regalos-originales/A46120654-taza-mr-wonderful-no-hay-nadie-como-tu-de-aqui-a-honolulu/?parentCategoryId=999.18385335013",
+            "comercio": "El Corte Ingles"
+        },
+        {
+            "id": "23e",
+            "nombre": "Hisense Lavadora 8kg",
+            "imagen": "septiembre/23e.jpg",
+            "descripcion": "Hisense WFQA8014EVJMW - Lavadora con Vapor, Conectividad Wifi, Carga Frontal 8 Kg Lavado, 1400 rpm, Motor Eficiente Inverter, Sistema Antibalanceo, Puerta XL, Gran Display LED\nEl poder del tratamiento con Vapor al final del programa seleccionado, reduce significativamente las arrugas, elimina los olores, las bacterias, la ropa queda más suave y cuidada alargando así su vida útil\nABT Antibacterias: Elimina el 99,9% de las bacterías en el cajón del detergente y la escotilla de la lavadora secadora, evitando su proliferación.\nInicio diferido hasta 24h: decide cuándo necesitas que termine el ciclo y la lavadora secadora calculará la hora de inicio\nALxANxPROF: 85x60x54cm",
+            "precio": 369.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.amazon.es/Hisense-WFQA8014EVJMW-Conectividad-Eficiente-Antibalanceo/dp/B0BXFCJNBB/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3T0A8Z0PE933Z&keywords=Hisense+WFQA8014EVJMW&qid=1695424334&sprefix=hisense+wfqa8014evjmw%2Caps%2C175&sr=8-1",
+            "comercio": "Amazon"
+        }
     ]
 }
