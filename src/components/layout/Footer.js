@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Instagram, Facebook } from '@mui/icons-material'; // Si estás usando MUI
+import {  Instagram, Facebook } from '@mui/icons-material'; // Si estás usando MUI
 import './Footer.css';
 
 function Footer() {
@@ -14,8 +14,8 @@ function Footer() {
       <div className="footer-section">
         <p className="footer-text">Síguenos</p>
         <div className="footer-icons">
-          <a href="#" className="icon-link"><Instagram /></a>
-          <a href="#" className="icon-link"><Facebook /></a>
+          <a href="/" className="icon-link"><Instagram /></a>
+          <a href="/" className="icon-link"><Facebook /></a>
         </div>
       </div>
 

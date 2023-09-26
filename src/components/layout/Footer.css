@@ -18,7 +18,6 @@ body, html {
 .footer-section {
     display: flex;
     flex-direction: column;
-    align-items: start;
 }
   
 .footer-text {
