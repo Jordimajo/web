@@ -55,7 +55,7 @@ const PlayDay = () => {
 
 
     return (
-        <div className="App">
+        <div className="Playday">
             {productoActual ? (
                 <div>
                     <Puntuacion

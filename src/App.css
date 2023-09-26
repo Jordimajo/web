@@ -47,3 +47,23 @@
   }
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Usamos vh para ocupar la altura completa de la ventana del navegador */
+}
+
+.footer {
+  margin-top: auto; /* Empuja el footer hacia abajo */
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+
