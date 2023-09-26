@@ -1,0 +1,29 @@
+import React from 'react';
+import { Helmet } from 'react-helmet';
+
+const Cookies = () => {
+    return (
+        <div className="legal-notice-container">
+            <Helmet>
+                <meta name="robots" content="noindex" />
+            </Helmet>
+            <h3 class="service-title">I. POL&Iacute;TICA DE COOKIES</h3>
+            <p>El acceso a este Sitio Web puede implicar la utilizaci&oacute;n de cookies. Las cookies son peque&ntilde;as cantidades de informaci&oacute;n que se almacenan en el navegador utilizado por cada Usuario &mdash;en los distintos dispositivos que pueda utilizar para navegar&mdash; para que el servidor recuerde cierta informaci&oacute;n que posteriormente y &uacute;nicamente el servidor que la implement&oacute; leer&aacute;. Las cookies facilitan la navegaci&oacute;n, la hacen m&aacute;s amigable, y no da&ntilde;an el dispositivo de navegaci&oacute;n.</p>
+            <p>Las cookies son procedimientos autom&aacute;ticos de recogida de informaci&oacute;n relativa a las preferencias determinadas por el Usuario durante su visita al Sitio Web con el fin de reconocerlo como Usuario, y personalizar su experiencia y el uso del Sitio Web, y pueden tambi&eacute;n, por ejemplo, ayudar a identificar y resolver errores.</p>
+            <p>La informaci&oacute;n recabada a trav&eacute;s de las cookies puede incluir la fecha y hora de visitas al Sitio Web, las p&aacute;ginas visionadas, el tiempo que ha estado en el Sitio Web y los sitios visitados justo antes y despu&eacute;s del mismo. Sin embargo, ninguna cookie permite que esta misma pueda contactarse con el n&uacute;mero de tel&eacute;fono del Usuario o con cualquier otro medio de contacto personal. Ninguna cookie puede extraer informaci&oacute;n del disco duro del Usuario o robar informaci&oacute;n personal. La &uacute;nica manera de que la informaci&oacute;n privada del Usuario forme parte del archivo Cookie es que el usuario d&eacute; personalmente esa informaci&oacute;n al servidor.</p>
+            <p>Las cookies que permiten identificar a una persona se consideran datos personales. Por tanto, a las mismas les ser&aacute; de aplicaci&oacute;n la Pol&iacute;tica de Privacidad anteriormente descrita. En este sentido, para la utilizaci&oacute;n de las mismas ser&aacute; necesario el consentimiento del Usuario. Este consentimiento ser&aacute; comunicado, en base a una elecci&oacute;n aut&eacute;ntica, ofrecido mediante una decisi&oacute;n afirmativa y positiva, antes del tratamiento inicial, removible y documentado.</p>
+            <h4>Cookies de terceros</h4>
+            <p>Son cookies utilizadas y gestionadas por entidades externas que proporcionan a&nbsp;Preciosisimo.com&nbsp;servicios solicitados por este mismo para mejorar el Sitio Web y la experiencia del usuario al navegar en el Sitio Web. Los principales objetivos para los que se utilizan cookies de terceros son la obtenci&oacute;n de estad&iacute;sticas de accesos y analizar la informaci&oacute;n de la navegaci&oacute;n, es decir, c&oacute;mo interact&uacute;a el Usuario con el Sitio Web.</p>
+            <p>La informaci&oacute;n que se obtiene se refiere, por ejemplo, al n&uacute;mero de p&aacute;ginas visitadas, el idioma, el lugar a la que la direcci&oacute;n IP desde el que accede el Usuario, el n&uacute;mero de Usuarios que acceden, la frecuencia y reincidencia de las visitas, el tiempo de visita, el navegador que usan, el operador o tipo de dispositivo desde el que se realiza la visita. Esta informaci&oacute;n se utiliza para mejorar el Sitio Web, y detectar nuevas necesidades para ofrecer a los Usuarios un Contenido y/o servicio de &oacute;ptima calidad. En todo caso, la informaci&oacute;n se recopila de forma an&oacute;nima y se elaboran informes de tendencias del Sitio Web sin identificar a usuarios individuales.</p>
+            <p>Puede obtener m&aacute;s informaci&oacute;n sobre las cookies, la informaci&oacute;n sobre la privacidad, o consultar la descripci&oacute;n del tipo de cookies que se utiliza, sus principales caracter&iacute;sticas, periodo de expiraci&oacute;n, etc. en el siguiente(s) enlace(s):</p>
+            <p>Google Analytics https://analytics.google.com/analytics/</p>
+            <p>La(s) entidad(es) encargada(s) del suministro de cookies podr&aacute;(n) ceder esta informaci&oacute;n a terceros, siempre y cuando lo exija la ley o sea un tercero el que procese esta informaci&oacute;n para dichas entidades.</p>
+            <h4>Deshabilitar, rechazar y eliminar cookies</h4>
+            <p>El Usuario puede deshabilitar, rechazar y eliminar las cookies &mdash;total o parcialmente&mdash; instaladas en su dispositivo mediante la configuraci&oacute;n de su navegador (entre los que se encuentran, por ejemplo, Chrome, Firefox, Safari, Explorer). En este sentido, los procedimientos para rechazar y eliminar las cookies pueden diferir de un navegador de Internet a otro. En consecuencia, el Usuario debe acudir a las instrucciones facilitadas por el propio navegador de Internet que est&eacute; utilizando. En el supuesto de que rechace el uso de cookies &mdash;total o parcialmente&mdash; podr&aacute; seguir usando el Sitio Web, si bien podr&aacute; tener limitada la utilizaci&oacute;n de algunas de las prestaciones del mismo.</p>
+            <h4>Uso de LocalStorage</h4>
+            <p>Este Sitio Web utiliza `localStorage` para almacenar información localmente en su dispositivo, como la puntuación del jugador. Al igual que las cookies, esta tecnología nos permite mejorar la experiencia del usuario al recordar información sobre sus interacciones y resultados en el juego. Sin embargo, la información almacenada en `localStorage` no es enviada al servidor y permanece en su dispositivo. Puede borrar esta información limpiando la caché o el almacenamiento local de su navegador.</p>
+        </div>
+    );
+}
+
+export default Cookies;

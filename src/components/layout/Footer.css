@@ -1,0 +1,47 @@
+body, html {
+    margin: 0; 
+    padding: 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Asegurar que todas las columnas comiencen desde el mismo punto */
+    background-color: #F1F5F7;
+    padding: 10px 20px;
+    font-size: 14px;
+    width: 100%; /* Que ocupe todo el ancho */
+    border-top: 1px solid #d1d5d8; /* Línea de separación sólida */
+    box-sizing: border-box; /* Para asegurarse de que el padding y el borde estén incluidos en el ancho */
+}
+  
+.footer-section {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+  
+.footer-text {
+    margin-bottom: 5px;
+}
+  
+.footer-link {
+    margin: 5px 0;
+    color: inherit;
+    text-decoration: none;
+}
+  
+.footer-icons {
+    display: flex;
+    gap: 10px;
+}
+  
+.icon-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.footer-text {
+    font-weight: bold;
+}
+  

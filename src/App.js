@@ -4,6 +4,7 @@ import './App.css';
 import Producto from './components/Producto';
 import PrecioSlider from './components/PrecioSlider';
 import Header from './components/layout/Header';
+import Footer from './components/layout/Footer';
 import { comprobarYActualizarPuntos } from './utils/comprobar';
 import { haJugadoElDia, obtenerPuntosDelDia } from './utils/storage';
 import { cargarProductosDelDia, getUTCDate } from './utils/carga';
@@ -14,6 +15,7 @@ import PlayDay from './pages/PlayDay';
 import Stats from './pages/Stats';
 import ResumenFinal from './components/ResumenFinal';
 import Legal from './pages/Legal';
+import Cookies from './pages/Cookies';
 
 
 const App = () => {
@@ -121,7 +123,9 @@ const App = () => {
           <Route path="/jugar/:fecha" element={<PlayDay />} />
           <Route path="/stats" element={<Stats />} />
           <Route path="/legal" element={<Legal />} />
+          <Route path="/cookies" element={<Cookies />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
