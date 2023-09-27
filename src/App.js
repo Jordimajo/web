@@ -1,5 +1,5 @@
 import React, { useCallback, useState, useEffect } from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 import './App.css';
 import Producto from './components/Producto';
 import PrecioSlider from './components/PrecioSlider';
@@ -29,11 +29,15 @@ const App = () => {
   const [productosDelDia, setProductosDelDia] = useState([]);
 
   ReactGA.initialize('G-WBY5JSRVDE');
-  const location = useLocation();
+  const Analytics = () => {
+    const location = useLocation();
 
-  useEffect(() => {
-    ReactGA.pageview(location.pathname + location.search);
-  }, [location]);
+    useEffect(() => {
+      ReactGA.pageview(location.pathname + location.search);
+    }, [location]);
+
+    return null;
+  };
 
   useEffect(() => {
     const fetchFechaUTC = async () => {
@@ -75,7 +79,7 @@ const App = () => {
       category: 'Juego',
       action: 'Botón comprobarPrecio presionado',
     });
-  
+
     const puntosGanados = comprobarYActualizarPuntos(fechaHoy, precioEstimado, productoActual.precio);
     setPuntosRecientes(puntosGanados);
     setMostrarResultado(true);
@@ -90,6 +94,7 @@ const App = () => {
 
   return (
     <Router>
+      <Analytics />
       <div className="App">
         <Header />
         <Routes>
