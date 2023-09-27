@@ -13,7 +13,7 @@ const Legal = () => {
             <p><strong><strong>LEY DE LOS SERVICIOS DE LA SOCIEDAD DE LA INFORMACI&Oacute;N&nbsp;(LSSI)</strong></strong></p>
             
             
-            <p >Jordi Mart&iacute;nez Joyeux responsable del sitio web, en adelante RESPONSABLE, pone a disposici&oacute;n de los usuarios el presente documento, con el que pretende dar cumplimiento a las obligaciones dispuestas en la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Informaci&oacute;n y del Comercio Electr&oacute;nico (LSSICE), as&iacute; como informar a todos los usuarios del sitio web respecto a cu&aacute;les son las condiciones de uso.</p>
+            <p >Preciosisimo.com responsable del sitio web, en adelante RESPONSABLE, pone a disposici&oacute;n de los usuarios el presente documento, con el que pretende dar cumplimiento a las obligaciones dispuestas en la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Informaci&oacute;n y del Comercio Electr&oacute;nico (LSSICE), as&iacute; como informar a todos los usuarios del sitio web respecto a cu&aacute;les son las condiciones de uso.</p>
             
             
             <p >Toda persona que acceda a este sitio web asume el papel de usuario, comprometi&eacute;ndose a la observancia y cumplimiento riguroso de las disposiciones aqu&iacute; dispuestas, as&iacute; como a cualquier otra disposici&oacute;n legal que fuera de aplicaci&oacute;n.&nbsp;</p>
@@ -25,10 +25,8 @@ const Legal = () => {
             <p ><strong><strong>1. DATOS IDENTIFICATIVOS</strong></strong></p>
             
             
-            <p>Nombre: Jordi Mart&iacute;nez Joyeux</p>
-            <p>CIF: 48589225T</p>
-            <p>Domicilio: Juan Pantoja 21-2, Madrid, 28039</p>
-            <p>e-mail: tuemail@tudominio. com</p>
+            <p>Denominación: Preciosisimo.com</p>
+            <p>e-mail: info@preciosisimo.com</p>
             
             
             <p ><strong><strong>2. OBJETO</strong></strong></p>
