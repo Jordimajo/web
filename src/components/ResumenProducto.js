@@ -2,7 +2,7 @@ import React from 'react';
 import './ResumenProducto.css';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import InstagramIcon from '@mui/icons-material/Instagram';
 
 const ResumenProducto = ({ puntos, descuentos, url, irAlSiguienteProducto, comercio }) => {
 
@@ -34,8 +34,8 @@ const ResumenProducto = ({ puntos, descuentos, url, irAlSiguienteProducto, comer
       <a href={`https://twitter.com/intent/tweet?text=${compartirMensaje}&url=${window.location.href}`} target="_blank" rel="noopener noreferrer">
         <TwitterIcon />
       </a>
-      <a href={`https://www.linkedin.com/shareArticle?mini=true&url=${window.location.href}&title=Juego de Adivinar Precios&summary=${compartirMensaje}`} target="_blank" rel="noopener noreferrer">
-        <LinkedInIcon />
+      <a href="https://www.instagram.com/preciosisimo_com/" target="_blank" rel="noopener noreferrer"> {/* Aquí pones la URL de tu perfil de Instagram */}
+        <InstagramIcon />
       </a>
       
       <button onClick={irAlSiguienteProducto}>Siguiente Producto</button>

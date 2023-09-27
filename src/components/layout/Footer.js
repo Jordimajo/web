@@ -14,7 +14,7 @@ function Footer() {
       <div className="footer-section">
         <p className="footer-text">Síguenos</p>
         <div className="footer-icons">
-          <a href="/" className="icon-link"><Instagram /></a>
+          <a href="https://www.instagram.com/preciosisimo_com/" className="icon-link"><Instagram /></a>
           <a href="https://www.facebook.com/people/Preciosisimocom/61551617953313/" className="icon-link"><Facebook /></a>
         </div>
       </div>
