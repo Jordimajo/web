@@ -17,6 +17,8 @@ import ResumenFinal from './components/ResumenFinal';
 import Legal from './pages/Legal';
 import Cookies from './pages/Cookies';
 import ReactGA from 'react-ga';
+import Tutorial from './pages/Tutorial';
+import Contacto from './pages/Contacto';
 
 
 const App = () => {
@@ -140,6 +142,8 @@ const App = () => {
           <Route path="/calendario" element={<CalendarioPage />} />
           <Route path="/jugar/:fecha" element={<PlayDay />} />
           <Route path="/stats" element={<Stats />} />
+          <Route path="/tutorial" element={<Tutorial />} />
+          <Route path="/contacto" element={<Contacto />} />
           <Route path="/legal" element={<Legal />} />
           <Route path="/cookies" element={<Cookies />} />
         </Routes>

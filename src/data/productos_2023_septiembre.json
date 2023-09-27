@@ -779,5 +779,57 @@
             "url": "https://www.carrefour.es/supermercado/platano-carrefour-12-kg-aprox/R-VC4AECOMM-779025/p?awc=25399_1695766833_381d4dbf72a9a9659877430db1000bb6&dclid=CNyw692nyYEDFZRFHQkdgfQEQQ",
             "comercio": "Carrefour"
         }
+    ],
+    "dia_28": [
+        {
+            "id": "28a",
+            "nombre": "SINGULARU - Collar Mini Stars -",
+            "imagen": "septiembre/28a.jpg",
+            "descripcion": "Plata de Ley 925 contrastada en un Laboratorio Oficial en España. Baño de Rodio.\nLargo de cadena: 35cm + 5cm alargador.\nCasual\nDetalle: 7 pequeñas estrellas de 0,6 cm de longitud.\nJoya hecha en España.\nIdea de presentación. Solo se incluye un estuche por pedido.",
+            "precio": 20,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/46wQA4V",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "28b",
+            "nombre": "WiZ - Enchufe inteligente con medidor de consumo",
+            "imagen": "septiembre/28b.jpg",
+            "descripcion": "Plug & Play: conéctalo via Wi-Fi: WiZ funciona con tu router Wi-Fi, por lo que no necesitas ninguna conexión adicional. Simplemente enchufa tu nuevo accesorio, descarga la aplicación WiZ y ¡listo! Consigue un control manos libres de tus luces y utiliza la voz y el Asistente de Google, Amazon Alexa o los atajos de Siri. Usa comandos de voz simples para encender o apagar las luces, intensificar o regular su brillo, cambiar de color y configurar escenas de iluminación personalizadas.\nDota de conectividad tus dispositivos cotidianos: lámparas, ventiladores, etc. Controla lámparas normales, luces decorativas, ventiladores, la cafetera y más. Con WiZ podrás controlar los dispositivos, sólo tienen que estar encendidos para conectarse y reaccionar a la aplicación.\nPrograma y automatiza fácilmente luces y dispositivos inteligentes. Programa las luces o electrodomésticos de su hogar para que se enciendan o apaguen automáticamente y siga tus rutinas diarias o semanales. Automatice las luces y dispositivos de modo que permanezcan apagados cuando no son necesarios, para mantenerse seguro y ahorrar energía.\nControla los dispositivos desde cualquier lugar con tu smartphone. No hay necesidad de preocuparse si se deja encendido un dispositivo eléctrico mientras no hay nadie en casa. Simplemente apágalo o controla otros dispositivos desde donde estés mediante tu smartphone.\nTecnología SpaceSense: entra en la App de WiZ y activa SpaceSense desde las automatizaciones. Con un mínimo de dos luces WiZ en una habitación, convierte tus luces en sensores de movimiento y hace que las luces se enciendan y apaguen automáticamente con la detección de movimiento.\nMide tu consumo: Este Smart Plug cuenta con un medidor de potencia incorporado que supervisa el consumo energético del dispositivo al que está conectado. Descubre la cantidad de energía que consume el dispositivo mirando el resumen visual en la aplicación WiZ.",
+            "precio": 11.19,
+            "descuentos": "Aplicar cupón 5€",
+            "url": "https://amzn.to/3PwqxDX",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "28c",
+            "nombre": "Arcos Niza - Juego de Cuchillos Cocina 3 piezas",
+            "imagen": "septiembre/28c.avif",
+            "descripcion": "Serie caracterizada por su gran ligereza y sencillez en sus formasDiseñado para un uso cotidiano\nExclusivo acero inoxidable de alto rendimiento y durabilidad Nitrum\nMango ligero de polipropileno (PP), material plástico higiénico con una buena estabilidad a los golpes, pudiendo ser usado sin problemas hasta temperaturas que rondan los 120-130 ºC",
+            "precio": 15.19,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://www.miravia.es/p/i1356319297367742-s2069519828082366.html?dsource=share&laz_share_info=1726429_103_100_4000029744430_1728429_null&laz_token=1ee1326630c19f2be8062c8ddfe33fba&publishertagname1=Deals&awc=37168_1695853227_8913b79aea7b3c34f5025eb3613683a4&publishertagid=610678",
+            "comercio": "Miravia"
+        },
+        {
+            "id": "28d",
+            "nombre": "Xiaomi Smart Band 8",
+            "imagen": "septiembre/28d.jpg",
+            "descripcion": "Hasta 16 días de duración de la batería para uso diario normal y carga en 1 hora.\nNuevo chipset que admite una tasa de refresco de 60Hz.\nSeguimiento del nivel de SpO2 durante todo el día, monitoreo continuo del sueño, monitoreo de la frecuencia cardíaca las 24 horas, monitoreo de la respiración del sueño…\n+150 modos de entrenamiento para registrar su ritmo cardíaco y calorías quemadas.\nMúltiples accesorios para usar tu band de una nueva manera",
+            "precio": 39.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3tdroSA",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "27e",
+            "nombre": "Marca Amazon Presto! 360 lavados (6 x 1,5 L)",
+            "imagen": "septiembre/28e.jpg",
+            "descripcion": "360 lavados (6 Packs, 60 cada uno)\nSuavizante concentrado\nFragancia floral fresca y limpia\nOtorga una suavidad sutil a tus prendas\nTecnología de liberación de fragancia en la ropa seca\nÚsalo junto con el detergente de Presto! en cada lavado para suavizar tus prendas y darles una frescura duradera\nBotella con 25% de PET reciclado",
+            "precio": 8.57,
+            "descuentos": "aplicar cupón 10% + compra recurrente",
+            "url": "https://amzn.to/3rnvWoX",
+            "comercio": "Amazon"
+        }
     ]
 }

@@ -38,7 +38,8 @@ const Sidebar = () => {
             <Link to="/" onClick={handleMenuLinkClick}><li>Reto del día</li></Link>
             <Link to="/calendario" onClick={handleMenuLinkClick}><li>Retos anteriores</li></Link>
             <Link to="/stats" onClick={handleMenuLinkClick}><li>Estadísticas</li></Link>
-            <li onClick={handleMenuLinkClick}>Contacto</li>
+            <Link to="/tutorial" onClick={handleMenuLinkClick}><li>Cómo jugar?</li></Link>
+            <Link to="/contacto" onClick={handleMenuLinkClick}><li>Contacto</li></Link>
           </ul>
         </div>
       )}
