@@ -16,6 +16,7 @@ import Stats from './pages/Stats';
 import ResumenFinal from './components/ResumenFinal';
 import Legal from './pages/Legal';
 import Cookies from './pages/Cookies';
+import ReactGA from 'react-ga';
 
 
 const App = () => {
@@ -26,6 +27,13 @@ const App = () => {
   const [puntosRecientes, setPuntosRecientes] = useState(0);
   const [mostrarResumenFinal, setMostrarResumenFinal] = useState(false);
   const [productosDelDia, setProductosDelDia] = useState([]);
+
+  ReactGA.initialize('G-WBY5JSRVDE');
+  const location = useLocation();
+
+  useEffect(() => {
+    ReactGA.pageview(location.pathname + location.search);
+  }, [location]);
 
   useEffect(() => {
     const fetchFechaUTC = async () => {
@@ -49,9 +57,9 @@ const App = () => {
       }
     });
   }, [fechaHoy, setProductosDelDia, setProductoActual, setMostrarResumenFinal]);
-  
-  
-  
+
+
+
 
   useEffect(() => {
     if (fechaHoy) {
@@ -63,6 +71,11 @@ const App = () => {
 
 
   const comprobarPrecio = () => {
+    ReactGA.event({
+      category: 'Juego',
+      action: 'Botón comprobarPrecio presionado',
+    });
+  
     const puntosGanados = comprobarYActualizarPuntos(fechaHoy, precioEstimado, productoActual.precio);
     setPuntosRecientes(puntosGanados);
     setMostrarResultado(true);
