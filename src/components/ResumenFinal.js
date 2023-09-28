@@ -19,7 +19,7 @@ const ResumenFinal = ({ productosDelDia, puntuacionDelDia, fecha }) => {
     const tiempoHastaMedianocheUTC = () => {
         const ahora = new Date();
         const medianocheUTC = new Date(Date.UTC(ahora.getUTCFullYear(), ahora.getUTCMonth(), ahora.getUTCDate() + 1));
-        return (medianocheUTC - ahora) / 1000; // Diferencia en segundos
+        return (medianocheUTC - ahora) / 1000; 
     };
 
     const [time, setTime] = useState(tiempoHastaMedianocheUTC());
@@ -34,7 +34,7 @@ const ResumenFinal = ({ productosDelDia, puntuacionDelDia, fecha }) => {
     const formatTime = (time) => {
         const hours = Math.floor(time / 3600).toString().padStart(2, '0');
         const minutes = Math.floor((time % 3600) / 60).toString().padStart(2, '0');
-        const seconds = (time % 60).toFixed(0).toString().padStart(2, '0'); // Añade toFixed(0) aquí
+        const seconds = (time % 60).toFixed(0).toString().padStart(2, '0'); 
             
         return `${hours}:${minutes}:${seconds}`;
     };
@@ -54,7 +54,7 @@ const ResumenFinal = ({ productosDelDia, puntuacionDelDia, fecha }) => {
                             className="producto-imagen"
                         />
                         <p>Puntos obtenidos: {puntosDelDia ? puntosDelDia[index] : 0}</p>
-                        <h5>{producto.precio}€</h5> {/* Aquí se añade el precio */}
+                        <h5>{producto.precio}€</h5> 
                         <a
                             href={producto.url}
                             target="_blank"

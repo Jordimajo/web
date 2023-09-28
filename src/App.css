@@ -66,4 +66,16 @@ html, body {
   box-sizing: border-box;
 }
 
+.btn {
+  background-color: #007EAF; /* Reemplaza #TuCodigoDeColor con el código de color que obtuviste */
+  color: #ffffff; /* Color del texto del botón. Puede ser blanco o cualquier otro color que contraste bien con el fondo azul */
+  border: none;
+  padding: 10px 20px; /* Ajusta el padding según tus necesidades */
+  cursor: pointer;
+  border-radius: 4px; /* Bordes redondeados, puedes ajustar según tus necesidades */
+  transition: background-color 0.3s; /* Suaviza el cambio de color cuando el botón es presionado o pasa el mouse por encima */
+}
 
+.btn:hover {
+  background-color: #004C7D; /* Cambia el color del fondo a un tono un poco más oscuro cuando pasas el mouse por encima */
+}

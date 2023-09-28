@@ -74,7 +74,7 @@ export default function InputSlider(props) {
     };
 
     return (
-        <Box sx={{ width: { xs: '100%', md: 500 }, margin: '0 auto', textAlign: 'center' }}>
+        <Box sx={{ width: { xs: '100%', md: 500 }, margin: '0 auto', textAlign: 'center', marginBottom: '2rem' }}>
             <Typography id="input-slider" gutterBottom>
                 ¿Cuál es su precio?
             </Typography>

@@ -83,7 +83,7 @@ const PlayDay = () => {
                         precioCorrecto={mostrarResultado ? productoActual.precio : null}
                     />
 
-                    {!mostrarResultado && <button onClick={comprobarPrecio}>Comprobar</button>}
+                    {!mostrarResultado && <button className="btn" onClick={comprobarPrecio}>Comprobar</button>}
 
                 </div>
             ) : mostrarResumenFinal ? (

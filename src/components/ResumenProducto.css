@@ -21,24 +21,22 @@ p {
   margin-bottom: 16px; /* Añade espacio entre el párrafo y el contenido siguiente */
 }
 
-.resumenProducto a {
-  display: inline-block; /* Hace que el enlace se comporte como un bloque pero solo ocupa el espacio necesario */
-  margin-bottom: 16px; /* Añade espacio entre el enlace y el contenido siguiente */
+.enlace-tienda {
+  display: inline-block; 
+  margin-bottom: 16px;
   color: #007BFF;
-  text-decoration: none; /* Elimina el subrayado del enlace */
-  transition: color 0.3s; /* Añade una transición para el color del enlace al pasar el cursor por encima */
+  text-decoration: none;
+  transition: color 0.3s;
 }
 
-a:hover {
-  color: #0056b3; /* Cambia el color del enlace al pasar el cursor por encima */
+.enlace-tienda:hover {
+  color: #0056b3;
 }
 
 button {
   display: block;
   margin: 12px auto;
   padding: 10px 20px;
-  background-color: #007BFF;
-  color: #FFF;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -50,8 +48,9 @@ button {
   }
 }
 
-button:hover {
-  background-color: #0056b3;
+.icono-red-social {
+  color: #005B8A;
 }
+
 
   

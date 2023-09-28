@@ -822,13 +822,65 @@
             "comercio": "Amazon"
         },
         {
-            "id": "27e",
+            "id": "28e",
             "nombre": "Marca Amazon Presto! 360 lavados (6 x 1,5 L)",
             "imagen": "septiembre/28e.jpg",
             "descripcion": "360 lavados (6 Packs, 60 cada uno)\nSuavizante concentrado\nFragancia floral fresca y limpia\nOtorga una suavidad sutil a tus prendas\nTecnología de liberación de fragancia en la ropa seca\nÚsalo junto con el detergente de Presto! en cada lavado para suavizar tus prendas y darles una frescura duradera\nBotella con 25% de PET reciclado",
             "precio": 8.57,
             "descuentos": "aplicar cupón 10% + compra recurrente",
             "url": "https://amzn.to/3rnvWoX",
+            "comercio": "Amazon"
+        }
+    ],
+    "dia_29": [
+        {
+            "id": "29a",
+            "nombre": "Mr. Wonderful - Set de 3 bolis",
+            "imagen": "septiembre/29a.jpg",
+            "descripcion": "Set de tres bolis con frases motivadoras distintas.\nTintas de los bolígrafos en color negro, azul y verde respectivamente.\nNuevos colores y frases que encantaran tanto como siempre.\nProducto original Mr. Wonderful\nÚnico y con materiales de calidad.",
+            "precio": 4.98,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3LFhcsr",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "29b",
+            "nombre": "TOHDNC Cama para Gatos 50CM",
+            "imagen": "septiembre/29b.jpg",
+            "descripcion": "Redonda Mullida Cama Perros y Gato: La superficie de esta cama para perro está hecha de felpa, tiene una forma redonda de rosquilla, cálido y cómodo, ideal para mascotas pequeñas que siempre buscan un lugar cálido y enrollarse para dormir.\nAntideslizante y Facil De Limpiar: La parte inferior de la cama nido para gatos es de tela oxford y partículas de caucho, duradero que evita que se resbale y caiga. Puedes lavo la cama perro gato manos o en la lavadora y luego secarla en la secadora para se queda bien.\nFácil de Colocar: Esta cama para perro puede colocarla en cualquier lugar que desee, funciona no solo en interior, sino también en exterior o el bota del automóvil. Incluso en acampa o viaja, las suave y cómodo camas para mascotas le brindan a su mascota una buena noche de sueño.\nBuen Tamaño: Nuestra 50 cm cama mascotas de diámetro interior 31 cm / 12,9 pulgadas se adapta a la mayoría de perros y gatos pequeños y medianos, conejos u otros mascotas de menos de 10 kg / 22 libras, pero no se recomienda para mascotas grandes o animales con una masticación fuerte.\nDisponible Todo el Año: A los gatos en general les gusta estar calentitos, la cama para gatos es bastante cálida y cómodo, sirva para todos épocas. Deje que sus mascotas duerman más cómodas y cálidas en invierno, también satisfecha la necesidad de calefacción de gato cuando el aire acondicionado es encendedo en el verano.",
+            "precio": 9.59,
+            "descuentos": "Aplicar cupón de 4€",
+            "url": "https://amzn.to/3RFxyFg",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "29c",
+            "nombre": "Levi's Graphic Crewneck Tee Camiseta Hombre",
+            "imagen": "septiembre/29c.jpg",
+            "descripcion": "Ofrece una comodidad óptima\nPresenta el logotipo de la marca en el pecho\n100% Algodón\nCierre: Ponerse\nLavar a máquina\nEstilo del cuello: Cuello redondo\nManga corta",
+            "precio": 13.93,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3LDyWnK",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "29d",
+            "nombre": "3 tabletas Milka MMMAX Choco Swing Tableta 300g",
+            "imagen": "septiembre/29d.jpg",
+            "descripcion": "La tableta de chocolate con leche gigante triple capa Milka MMMAX Choco Swing acompañada de una deliciosa galleta, una capa de crema de cacao y una capa de crema de leche, crean la perfecta combinación para servir como un irresistible tentempié, para picar como snack o para disfrutar de un dulce descanso.\nCon su sabrosa combinación del clásico sabor a chocolate Milka, relleno de cacao y de leche y crujiente galleta, hacen de estos trozos de chocolate el descanso más tierno y delicioso del día. Un tamaño extra grande excelente para disfrutar y compartir con familia y amigos, en desayunos, postres, o en meriendas escolares para los niños.\nEl sabor intenso de la tableta Milka Choco Swing con doble capa de chocolate y una de leche es la perfecta combinación para los amantes del dulce. Cada onza de chocolate proporciona una textura que combina capas de crujiente, tierno y cremoso relleno creando una sensación irresistible.\nMilka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.\nHacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.",
+            "precio": 5.88,
+            "descuentos": "oferta 3x2",
+            "url": "https://amzn.to/3ZySEH8",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "29e",
+            "nombre": "Hisense 65E7KQ QLED Smart TV, 65 Pulgadas",
+            "imagen": "septiembre/29e.jpg",
+            "descripcion": "【Quantum Dot Colour】 Los televisores de punto cuántico cuentan con una de las tecnologías más eficientes para obtener colores brillantes y precisos. Utilizando puntos cuánticos para emitir longitudes de onda de luz extremadamente precisas, el color de punto cuántico hace que puedas presenciar miles de millones de nuevos tonos con niveles de brillo increíblemente impresionantes. Todo ello da como resultado un importante volumen cromático para una gama de colores que roza lo imposible.\n【Dolby Vision】No vuelvas a preocuparte por la compatibilidad o la calidad de vídeo. Simplemente elige y reproduce cualquier contenido que desees, sabiendo que lo estás experimentando con detalles perfectos, colores mejorados y negros más profundos, gracias a la amplia gama de Dolby Vision.\n【Dolby Atmos】 Disfruta de una experiencia de entretenimiento de primera calidad con el sonido envolvente de Dolby Atmos. Los directores y los mezcladores de sonido utilizan estas tecnologías avanzadas para crear un entretenimiento espectacular, que podrás experimentar en tu televisor con Dolby Atmos.\n【Modo Game PLUS】Juega lo mejor posible con la ayuda del Modo Game PLUS, un conjunto de tecnologías combinadas para ofrecerte una experiencia de juego fluida y relajada. El panel de 60 Hz, la frecuencia de actualización variable (VRR) y el modo automático de baja latencia (ALLM) se combinan para garantizar que la tarjeta gráfica y la pantalla funcionen en paralelo. Demuestra tus habilidades sin problemas de latencia para alcanzar el éxito.\n【Airplay】Con Apple AirPlay, puede transmitir películas, música, juegos y fotos a su televisor directamente desde su iPhone, iPad o Mac. Y debido a que su televisor es compatible con Apple Home, puede controlarlo en su iPhone, iPad, Apple Watch, HomePod mini o Mac usando la tecnología Apple HomeKit.\n【Direct Full Array】Los televisores Hisense respaldados por la tecnología Direct Full Array cuentan con una malla compacta de LED individuales que cubren todo el panel trasero. Estos LED permiten un control preciso del brillo y el contraste, lo que se traduce en colores vivos y nítidos, y negros profundos e hipnotizantes en todo el campo de visión.",
+            "precio": 589,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/454Mfog",
             "comercio": "Amazon"
         }
     ]

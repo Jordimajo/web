@@ -24,21 +24,21 @@ const ResumenProducto = ({ puntos, descuentos, url, irAlSiguienteProducto, comer
       <p>Has conseguido {puntos} puntos.</p>
       <h3>¿Cómo consigo esta oferta?</h3>
       <p>{descuentos}</p>
-      <a href={url} target="_blank" rel="noopener noreferrer">{generarTextoEnlace(comercio)}</a>
+      <a href={url} target="_blank" rel="noopener noreferrer" className="enlace-tienda">{generarTextoEnlace(comercio)}</a>
       
       <h3>Comparte el juego en redes sociales:</h3>
       
       <a href={`https://www.facebook.com/sharer/sharer.php?u=${window.location.href}`} target="_blank" rel="noopener noreferrer">
-        <FacebookIcon />
+        <FacebookIcon className="icono-red-social"/>
       </a>
       <a href={`https://twitter.com/intent/tweet?text=${compartirMensaje}&url=${window.location.href}`} target="_blank" rel="noopener noreferrer">
-        <TwitterIcon />
+        <TwitterIcon className="icono-red-social"/>
       </a>
-      <a href="https://www.instagram.com/preciosisimo_com/" target="_blank" rel="noopener noreferrer"> {/* Aquí pones la URL de tu perfil de Instagram */}
-        <InstagramIcon />
+      <a href="https://www.instagram.com/preciosisimo_com/" target="_blank" rel="noopener noreferrer">
+        <InstagramIcon className="icono-red-social"/>
       </a>
       
-      <button onClick={irAlSiguienteProducto}>Siguiente Producto</button>
+      <button className="btn" onClick={irAlSiguienteProducto}>Siguiente Producto</button>
     </div>
   );
 }

@@ -20,7 +20,7 @@ const Producto = ({ producto }) => {
         onTouchStart={handleImageClick} 
       />
       <h2>{producto.nombre}</h2>
-      <button onClick={() => setDescripcionDesplegada(!descripcionDesplegada)}>
+      <button className="btn" onClick={() => setDescripcionDesplegada(!descripcionDesplegada)}>
         Descripción {descripcionDesplegada ? "-" : "+"}
       </button>
       {descripcionDesplegada && <p className="producto-descripcion">{producto.descripcion}</p>}
