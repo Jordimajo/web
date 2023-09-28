@@ -25,24 +25,7 @@
     }
 }
 
-h1, h2 {
-    margin: 5px 0;  /* Mantenemos el margen vertical en dispositivos móviles */
 
-    font-size: 1.2em; /* Tamaño reducido para h1 en dispositivos móviles */
-    
-    @media (min-width: 600px) {
-        margin: 10px 0; /* Margen estándar para pantallas más grandes */
-        font-size: 1.4em; /* Tamaño reducido para h1 en pantallas más grandes */
-    }
-}
-
-h2 {
-    font-size: 0.9em; /* Tamaño reducido para h2 en dispositivos móviles */
-    
-    @media (min-width: 600px) {
-        font-size: 1.2em; /* Mantenemos el tamaño para h2 en pantallas más grandes */
-    }
-}
 
 .title-container .icon-link > * {
     font-size: 1.2em;
@@ -79,26 +62,8 @@ h2 {
 
 /* Estilos por defecto para móviles */
 .logo-image {
-    display: none; /* Oculta el logo por defecto */
+    display: block; /* Oculta el logo por defecto */
     width: 100%;
     max-width: 100vw; /* Asegura que no se exceda del ancho de la pantalla */
     height: auto; /* mantiene la proporción de la imagen */
-}
-
-.mobile-title {
-    display: block; /* Muestra el texto por defecto */
-    /* Puedes agregar estilos adicionales si lo necesitas */
-}
-
-/* Estilos para tabletas y ordenadores */
-@media (min-width: 500px) { /* A partir de 768px (típicamente tabletas en adelante) */
-    .logo-image {
-        display: block; /* Muestra el logo */
-        width: 100%;
-        height: auto;
-    }
-
-    .mobile-title {
-        display: none; /* Oculta el texto */
-    }
 }

@@ -24,9 +24,6 @@ const Header = () => {
                 <Link to="/" className="title-link">
                     <div className="titles">
                         <img src="/preciosisimo.png" alt="Logo Preciosisimo" className="logo-image" />
-
-                        <h1 className="mobile-title">PRECIOSISIMO</h1>
-                        <h2 className="mobile-title">5 productos nuevos cada día</h2>
                     </div>
                 </Link>
 
