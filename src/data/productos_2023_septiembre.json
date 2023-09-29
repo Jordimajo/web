@@ -883,5 +883,57 @@
             "url": "https://amzn.to/454Mfog",
             "comercio": "Amazon"
         }
+    ],
+    "dia_30": [
+        {
+            "id": "30a",
+            "nombre": "Yes4All 12 Baldosas de Espuma EVA de 30x30cm",
+            "imagen": "septiembre/30a.jpg",
+            "descripcion": "Cubre 12 pies cuadrados. Pies: incluye 12 azulejos. Cada azulejo mide 12 pulgadas de largo x 12 pulgadas de ancho x 0. 38 pulgadas de grosor. grueso desde el punto más alto de la textura. Puedes ser creativo con los azulejos y hacer patrones de alfombrilla de tu elección\nDuradero y antideslizante: superficie antideslizante con textura y absorción de golpes que proporciona una sensación suave al hacer ejercicio, ¿lo mejor para una zona de entrenamiento cómoda? Una combinación de alfombrilla de espuma EVA de alta densidad y alfombrilla de ejercicio para un excelente apoyo y amortiguación\nFácil montaje en 5 minutos: las piezas de rompecabezas ligeras se pueden conectar y desmontar fácilmente en menos de 5 minutos. Ideal para gimnasio en casa, gimnasio de fitness, cobertura de garajes o zonas de juego para niños\nAlfombrilla versátil: el diseño resistente al agua y reduce el ruido es fácil de limpiar e ideal para tapete de gimnasio, tapete de equipo, tapete de ejercicio, tapete de entrenamiento\nLos productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.",
+            "precio": 19.05,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3tff7gr",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "30b",
+            "nombre": "Apple Watch Series 8 (GPS, 45mm)",
+            "imagen": "septiembre/30b.jpg",
+            "descripcion": "Sensor de temperatura\nMedición del oxígeno en sangre con una app y un sensor muy potentes\nNotificaciones de frecuencia cardiaca alta o baja y avisos de ritmo irregular.\nPrestaciones de seguridad avanzadas, como la detección de caídas, Emergencia SOS y la detección de accidentes\nApp Entreno mejorada con métricas más exhaustivas y nuevas formas de hacer ejercicio.\nApp Brújula completamente rediseñada con las prestaciones Puntos de Referencia y Retorno.\nSeguimiento de la actividad diaria en el Apple Watch y consulta de tendencias en la app Fitness del iPhone.\nEl vidrio delantero más duro en un Apple Watch, resistencia al polvo IP6X, diseño apto para nadar y una mayor durabilidad para entrenar a tope\nLlamadas, mensajes y emails con unos toques.\nReproducción de música, podcasts y audiolibros. [modelos GPS]",
+            "precio": 399,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3ZzYZlM",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "30c",
+            "nombre": "Melitta Solo E950-777, Cafetera con Molinillo",
+            "imagen": "septiembre/30c.jpg",
+            "descripcion": "COMPACTA: La cafetera eléctrica prepara un magnífico café en sólo 20 centímetros de ancho.\nINTUITIVA: Personaliza tu bebida y prepara tu taza de café ya programada con un sólo toque.\nCONFIGURABLE: El molinillo cónico tiene 5 grados de molienda. El café hasta 3 niveles de intensidad.\nLIMPIEZA: Programas automáticos de descalcificación y limpieza del sistema de café.\nCAFÉ EN GRANO: Disfruta del aroma del café 100% natural recién molido en tu Solo E950-877.",
+            "precio": 249,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3LGNVgU",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "30d",
+            "nombre": "Joma Combi Camiseta Manga Corta, Hombre",
+            "imagen": "septiembre/30d.jpg",
+            "descripcion": "Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad\nRealizada en poliéster, para una mayor resistencia\nCompuesto, Compuesto\nCierre: Pull on\nManga corta\nRegular\nEsta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas\nEl tejido Interlock es muy elástico, dirigido a ropa deportiva",
+            "precio": 6.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3ZySEH8",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "30e",
+            "nombre": "Nancy - Aitana, muñeca como la Cantante",
+            "imagen": "septiembre/30e.jpg",
+            "descripcion": "Llega a la colección una Nancy muy especial en colaboración con la cantante más trendy del momento: Aitana\nNancy Aitana es una muñeca igual que la famosa cantante, con todos los detalles, como su pelo castaño oscuro corto con flequillo y su tatuaje Alpha\nEl outfit de la muñeca está inspirada en “Las Babys” uno de sus temas más conocidos de su álbum “Era Alpha”\nEl conjunto exclusivo consta de un top azul brillante, un pantalón ancho negro con flecos decorado con estrellas plateadas y el logo de Alpha, y botas negras\nAdemás, la muñeca cuenta con accesorios como pendientes de aro grandes y collar; y lleva maquillaje de ojos azul\nMuñeca de 43 centímetros con certificado de autenticidad que encantará a los fans de la artista; un juguete adecuado para niños y niñas desde 3 años",
+            "precio": 39.95,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3RFMp2h",
+            "comercio": "Amazon"
+        }
     ]
 }
