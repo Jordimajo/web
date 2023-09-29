@@ -16,7 +16,7 @@ import Stats from './pages/Stats';
 import ResumenFinal from './components/ResumenFinal';
 import Legal from './pages/Legal';
 import Cookies from './pages/Cookies';
-import ReactGA from 'react-ga';
+import ReactGA from 'react-ga4';
 import Tutorial from './pages/Tutorial';
 import Contacto from './pages/Contacto';
 
@@ -35,7 +35,7 @@ const App = () => {
     const location = useLocation();
 
     useEffect(() => {
-      ReactGA.pageview(location.pathname + location.search);
+      ReactGA.send({ hitType: "pageview", page: location.pathname + location.search });
     }, [location]);
 
     return null;
@@ -78,8 +78,9 @@ const App = () => {
 
   const comprobarPrecio = () => {
     ReactGA.event({
-      category: 'Juego',
-      action: 'Botón comprobarPrecio presionado',
+      category: "Juego",
+      action: "Botón presionado",
+      label: "ProductoDiario"
     });
 
     const puntosGanados = comprobarYActualizarPuntos(fechaHoy, precioEstimado, productoActual.precio);
