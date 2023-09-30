@@ -47,7 +47,8 @@ function Calendario() {
     };
 
     const daysByMonth = generateDaysByMonth(days);
-    const lastFourMonths = Object.entries(daysByMonth).slice(-4);
+    const lastFourMonths = Object.entries(daysByMonth).slice(-4).reverse();
+
 
     return (
         <div className="calendar">
