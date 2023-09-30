@@ -34,7 +34,7 @@ const ResumenProducto = ({ puntos, descuentos, url, irAlSiguienteProducto, comer
       <a href={`https://twitter.com/intent/tweet?text=${compartirMensaje}&url=${window.location.href}`} target="_blank" rel="noopener noreferrer">
         <TwitterIcon className="icono-red-social"/>
       </a>
-      <a href="https://www.instagram.com/preciosisimo_com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/preciosisimo.es/" target="_blank" rel="noopener noreferrer">
         <InstagramIcon className="icono-red-social"/>
       </a>
       

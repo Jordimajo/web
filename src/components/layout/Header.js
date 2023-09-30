@@ -32,7 +32,7 @@ const Header = () => {
                     <FontAwesomeIcon icon={faChartBar} />
                 </Link>
 
-                <a href="https://www.instagram.com/preciosisimo_com/" className="icon-link">
+                <a href="https://www.instagram.com/preciosisimo.es/" className="icon-link">
                     <Instagram />
                 </a>
 
