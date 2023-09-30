@@ -1,0 +1,54 @@
+{
+    "dia_1": [
+        {
+            "id": "1a",
+            "nombre": "Samsung Unidad flash USB Type-C 128Gb",
+            "imagen": "octubre/1a.jpg",
+            "descripcion": "Gran rendimiento: hasta 400 MB/s de velocidad de lectura y 60 MB/s de velocidad de escritura con interfaz USB 3 1 (compatible con USB 3 0 y 2 0)\nAlta compatibilidad: conexión USB tipo C para uso flexible en PC, notebook, teléfono inteligente y tableta\nMucho espacio para tus datos: hasta 128 GB de capacidad de almacenamiento para que lleves contigo tus archivos más importantes\nAlto rendimiento: se puede copiar un archivo de 4 GB desde la unidad flash USB a su PC o computadora portátil en aproximadamente 11 segundos\nFiabilidad probada gracias a la protección quíntuple: impermeable, a prueba de golpes, magnética, resistente a la temperatura y a prueba de rayos X",
+            "precio": 16.38,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/4578Xw0",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "1b",
+            "nombre": "Lékué Colador de Silicona, Verde, 23 cm",
+            "imagen": "octubre/1b.jpg",
+            "descripcion": "Colapsable: Ahorra espacio gracias al sistema de pliegue compacto\nFlexible: podrás verter fácilmente los ingredientes del colador al plato\nComodidad en el uso: Sus asas deslizantes aseguran un fácil transporte\nGran tamaño y capacidad: Cuela, escurre y enjuaga gran cantidad de alimentos\nFabricado de silicona platino 100 %",
+            "precio": 11.69,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3PEJp3t",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "1c",
+            "nombre": "Mobiclinic, Rascador árbol para Gato",
+            "imagen": "octubre/1c.jpg",
+            "descripcion": "🐈DESCANSO: El rascador contiene dos refugios para que el gato descanse. Estos animales adoran esconderse en citios cerrados. Por tanto, encontrarán esta zona ideal para descansar. De este modo, lo tendremos localizado y así tanto él como nosotros estaremos tranquilos.\n🐈ALIVIO: El rascador ayudará a que nuestro gato no libere su naturaleza felina contra nuestro sofá u otros bienes causando destrozos.\n🐈DETALLES DEL PRODUCTO: Medidas: 50x50x132cm Cuerda de sisal, tejido suave, tableros de madera Color gris oscuro. Peso: 13 kg.\n🐈USO: Es un objeto que cumple la función de desestresante para ellos. La cuerda de sisal hace que las uñas se puedan clavar sin problema ni ninguna rotura.\n🐈MOBICLINIC S.L. es una empresa fabricante líder del sector sanitario, que cuida de tu salud y ahora también de la de tu mascota. Ofrecemos la mejor calidad y confianza a sus clientes desde 1985. Para acceder a su catálogo completo, haga clic en la palabra Mobiclinic de color azul que se encuentra al lado del título del producto.",
+            "precio": 54.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/46ydl8k",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "1d",
+            "nombre": "SAMSUNG T7 Shield SSD Portátil 2TB",
+            "imagen": "octubre/1d.avif",
+            "descripcion": "Memoria SSD externa de alta velocidad con un diseño resistente y protección adicional frente a la entrada de agua y polvo gracias a la certificación IP65\nHasta 9.5 veces más rápido que los discos duros externos mecánicos, USB 3.2 Gen.2 con velocidades de lectura y escritura de hasta 1050 MB/s y 1000 MB/s, respectivamente\nTus datos privados se pueden proteger rápido y fácilmente con una contraseña utilizando el cifrado de hardware AES de 256 bits\nGracias a la carcasa de caucho resistente a los golpes, el T7 Shield puede soportar caídas desde una altura de hasta tres metros, lo que lo convierte en un dispositivo fiable vayas donde vayas.\nLos dos cables USB suministrados, tipo C a C y tipo C a A, permiten la conexión a ordenador, Mac, dispositivos Android, Smart TV y consolas de juegos, entre muchos otros",
+            "precio": 119,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/48DwCY3",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "1e",
+            "nombre": "Cecotec Lavadora 9 Kg",
+            "imagen": "octubre/1e.jpeg",
+            "descripcion": "Clase A: máxima eficiencia energética. Capacidad 9 kg: ideal para familias. Motor inverter plus: permite ahorrar energía en cada lavado. Además, reduce el ruido y las vibraciones durante su funcionamiento, sobre todo en la fase de centrifugado.\nSteamMax: limpieza mediante vapor que penetra en el tejido de cada prenda para dejar toda tu colada como nueva. 16 programas: Mixto, Algodón, Súper rápido, Eco 40-60, Lana, Prelavado, Camisetas, Deporte, Intensivo, Cama, Antialérgico, Centrifugado/Drenaje, Centrifugado, Limpieza tambor, Delicado, Algodón 20ºC.\nPearl Drum: textura especial en forma de copo de nieve del tambor que mejora el secado y favorece el deslizamiento de las prendas para garantizar una mejor limpieza y un mayor cuidado de tu ropa. Drum Clean: el tambor se limpia solo para evitar la acumulación de bacterias, suciedad y malos olores.\nAllergy Care: antes de cada lavado esteriliza mediante vapor al 99,9%, destacando principalmente en lavados de agua fría. Deja tu ropa 100% libre de gérmenes y bacterias y mantenla como el primer día.\nDisplay: maneja y lleva el control de tu lavadora. Delay Start: programa la hora a la que quieres que termine tu lavadora. Planifica tu lavado para que empiece en el momento del día que más se adapte a tu horario. Función Stop&Go: para la lavadora durante su funcionamiento para recargarla. Si te has olvidado de meter algo, o quieres sacar algo, una vez empezado el programa, podrás pararla y abrirla para retirar algo o recargarla.",
+            "precio": 339.9,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3tcF2p5",
+            "comercio": "Amazon"
+        }
+    ]
+}
