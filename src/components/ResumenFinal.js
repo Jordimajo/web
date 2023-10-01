@@ -19,7 +19,7 @@ const ResumenFinal = ({ productosDelDia, puntuacionDelDia, fecha }) => {
     const tiempoHastaMedianocheUTC = () => {
         const ahora = new Date();
         const medianocheUTC = new Date(Date.UTC(ahora.getUTCFullYear(), ahora.getUTCMonth(), ahora.getUTCDate() + 1));
-        return (medianocheUTC - ahora) / 1000; 
+        return (medianocheUTC - ahora) / 1000;
     };
 
     const [time, setTime] = useState(tiempoHastaMedianocheUTC());
@@ -34,14 +34,24 @@ const ResumenFinal = ({ productosDelDia, puntuacionDelDia, fecha }) => {
     const formatTime = (time) => {
         const hours = Math.floor(time / 3600).toString().padStart(2, '0');
         const minutes = Math.floor((time % 3600) / 60).toString().padStart(2, '0');
-        const seconds = (time % 60).toFixed(0).toString().padStart(2, '0'); 
-            
+        const seconds = (time % 60).toFixed(0).toString().padStart(2, '0');
+
         return `${hours}:${minutes}:${seconds}`;
     };
 
+    const obtenerMensajePorPuntuacion = (puntuacion) => {
+        if (puntuacion < 50) {
+            return "Reto diario no superado";
+        } else if (puntuacion >= 50 && puntuacion < 80) {
+            return "Reto diario superado";
+        } else {
+            return "Reto diario excelente";
+        }
+    }
+
     return (
         <div>
-            <h2>Resumen Final del Día</h2>
+            <h2>{obtenerMensajePorPuntuacion(puntuacionDelDia)}</h2>
             <h3>Puntuación total del día: {puntuacionDelDia}</h3>
             <h3>Próximo reto en: {formatTime(time)}</h3>
             <ul className="lista-productos">
@@ -54,7 +64,7 @@ const ResumenFinal = ({ productosDelDia, puntuacionDelDia, fecha }) => {
                             className="producto-imagen"
                         />
                         <p>Puntos obtenidos: {puntosDelDia ? puntosDelDia[index] : 0}</p>
-                        <h5>{producto.precio}€</h5> 
+                        <h5>{producto.precio}€</h5>
                         <a
                             href={producto.url}
                             target="_blank"

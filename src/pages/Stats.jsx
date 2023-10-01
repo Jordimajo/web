@@ -30,13 +30,13 @@ const Stats = () => {
 
                 <div className="estadistica">
                     <TrendingUpIcon className="estadistica-icono"/>
-                    <h3>Reto 50 puntos</h3>
+                    <h3>Retos superados (50 puntos)</h3>
                     <p>{diasObjetivoSuperado50()}</p>
                 </div>
 
                 <div className="estadistica">
                     <CheckCircleIcon className="estadistica-icono"/>
-                    <h3>Reto 80 puntos</h3>
+                    <h3>Retos excelentes (80 puntos)</h3>
                     <p>{diasObjetivoSuperado80()}</p>
                 </div>
             </div>

@@ -50,5 +50,57 @@
             "url": "https://amzn.to/3tcF2p5",
             "comercio": "Amazon"
         }
+    ],
+    "dia_2": [
+        {
+            "id": "2a",
+            "nombre": "Aigostar Bombilla Inteligente LED GU10",
+            "imagen": "octubre/2a.jpg",
+            "descripcion": "📱【Personalización】: Las bombillas inteligentes pueden identificar los colores mediante la toma de fotografías o la selección de imágenes de los álbumes, creando una atmósfera de ensueño de color.\n📱【MULTICOLOR】: El modo personalizable de la app Aigosmart le permite personalizar sus efectos de iluminación, puede elegir entre 16 millones de colores, temperaturas de color de 2700 K – 6500 K y diferentes estilos para crear su color ideal. La función de reconocimiento de colores le permite personalizar el entorno.\n📱【App y control por voz】: No necesita un hub o un enchufe inteligente. Simplemente descargue la aplicación gratuita de Aigosmart, conecte la bombilla alexa a su Wi-Fi de 2,4 GHz y podrá controlar su bombilla desde cualquier lugar. Además, esta bombilla wifi es compatible con Alexa y el Asistente de Google para el control por voz. (Nota: No es compatible con el Wi-Fi de 5 GHz,The SL2 series is an upgraded model in 2022, with fast networking and good experience).\n📱【Temporizador + Función grupal】: Ajuste fácilmente los tiempos a través de la app Aigosmart (iOS y Android) para encender y apagar las bombillas inteligentes a la hora deseada. También puede utilizar el mismo comando de control de grupo para controlar las bombillas desde cualquier lugar y de varias habitaciones en cualquier momento con un solo clic, automatizando toda la iluminación de su hogar.\n📱【Modos para varios entornos】: La bombillas inteligente led cuenta con 26 modos de entorno. 4 categorías: naturaleza, vacaciones, vida y emoción. Puede cambiar la luz de acuerdo con el entorno y el estado de ánimo para conseguir una experiencia de iluminación fantástica.",
+            "precio": 4.99,
+            "descuentos": "Aplicar cupón descuento 50%",
+            "url": "https://amzn.to/46o5HNU",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "2b",
+            "nombre": "BEBÉS LLORONES Goodnight Starry Sky",
+            "imagen": "octubre/2b.jpg",
+            "descripcion": "Cry Babies Buenas noches, Jenna hace lindos sonidos de llanto y llora lágrimas mágicas con LED\nPonle el chupete en la boca y dejará de llorar\nLleva un mono suave con orejas grandes y adorables, melena de colores y alas suaves.\nPresiona su barriga y un cielo estrellado iluminará tu habitación\nReproduce 5 relajantes canciones de cuna de hasta 10 minutos\nLa música y la luz se apagan solas\nCuando el producto esté fabricado en China, purgue el botón detrás de la cabeza. Interruptor trasero.",
+            "precio": 18.99,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3ry7QaS",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "2c",
+            "nombre": "MSAPPHIRE VGA Pulse Radeon RX 7800 XT ",
+            "imagen": "octubre/2c.jpg",
+            "descripcion": "Diseño de energía digital. SAPPHIRE NITRO+ y PULSE Las series AMD Radeon™ RX 7800 están diseñadas con potencia digital que proporciona un control de energía preciso y una excelente eficiencia energética.\nCondensador de aluminio de polímero conductor de ultra alto rendimiento. El condensador de aluminio de polímero conductivo de rendimiento ultraalto tiene una huella de PCB pequeña pero una capacitancia volumétrica alta que hace posible la alimentación de 14 fases en la tarjeta gráfica de la serie RX 7800. El condensador ofrece capacitancia estable a alta frecuencia y temperatura con muy bajo ruido de señal, lo que garantiza la estabilidad y confiabilidad del producto.\nPCB de cobre con alto TG. La GPU está montada en una PCB de cobre de 2 oz de 14 capas de alta densidad y alta TG para igualar la velocidad rápida, la alta corriente y el mayor requisito de energía de la GPU y la memoria para garantizar una alta estabilidad de la PCB durante el funcionamiento.\nAspa del ventilador de velocidad angular. Las aspas del ventilador de velocidad angular proporcionan una doble capa de presión de aire descendente que, junto con la presión de aire en el anillo exterior del ventilador axial, produce hasta un 44 % más de presión de aire descendente y hasta un 19 % más de flujo de aire para un funcionamiento más silencioso y fresco. en comparación con las generaciones anteriores.\nHeatpipe compuesto optimizado. Los heatpipes compuestos están ajustados para cada diseño de enfriamiento individual con un flujo de calor óptimo, distribuyendo el calor de manera eficiente y uniforme por todo el módulo de enfriamiento.\nProtección de fusibles. Para proteger su tarjeta, las tarjetas SAPPHIRE tienen protección de fusible integrada en el circuito del conector de alimentación PCI-E externo para mantener seguros los componentes.\nRodamiento de dos bolas. Estos cuentan con ventiladores con rodamientos de bolas dobles, que tienen una vida útil aproximadamente un 85% más larga que los rodamientos de manguito en nuestras pruebas. Las mejoras en las aspas del ventilador significan que la solución es hasta un 10% más silenciosa que la generación anterior.",
+            "precio": 579.90,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/46aI4Zf",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "2d",
+            "nombre": "Xiaomi 12 - 8+256GB, Pantalla de 6.28pulgadas",
+            "imagen": "octubre/2d.jpg",
+            "descripcion": "Marca: Xiaomi\nNombre del modelo: Xiaomi 12\nOperador de servicios inalámbricos: Todas las empresas de transportes\nSistema operativo: MIUI 12\nTecnología de móvil: 5G\nCapacidad de almacenamiento de memoria: 256 GB\nTecnología de conectividad: Bluetooth, USB, NFC, Wifi\nColor: Purple\nTamaño de pantalla: 6,28 Pulgadas\nTecnología de red inalámbrica: GSM, CDMA, LTE",
+            "precio": 415,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3rE2lYc",
+            "comercio": "Amazon"
+        },
+        {
+            "id": "2e",
+            "nombre": "Monster Jam - Coche TELEDIRIGIDO EL Toro Loco",
+            "imagen": "octubre/2e.jpg",
+            "descripcion": "MONSTER TRUCK TELEDIRIGIDO OFICIAL TORO LOCO: este coche teledirigido a escala 1:24 está construido para vivir la acción de Monster Jam; con tu Monster Jam Toro Loco, realiza impresionantes acrobacias y reproduce choques locos como en el famoso programa\nRADIOCONTROL MULTIFUNCIÓN: con un mando radiocontrol de doble palanca y una frecuencia de 2,4 GHz, puedes conducir hasta 6 coches Monster Jam para niños a la vez; incluso puedes lanzarte en las aventuras más extremas con tu coche radiocontrol Toro Loco de Monster Jam y recorrer hasta 76 metros de distancia\nRÉPLICA AUTÉNTICA: el monster truck radiocontrol Toro Loco a escala 1:24 te pone en el centro de la acción de Monster Jam; con neumáticos oficiales BKT, gráficos detallados y un chasis elegante, te sentirás como si estuvieras conduciendo un monster truck de verdad con este coche radiocontrol 4x4\nFUNCIONA CON PILAS: los coches teledirigidos para niños Monster Jam requieren 3 pilas LR03 para el vehículo y 2 pilas LR03 para el mando (no incluidas)\nINCLUYE: 1 Monster Jam Toro Loco RC\nREGALOS NIÑOS 4 AÑOS +: el camión teledirigido Monster Jam es una gran idea para un regalo en cualquier época del año: Navidad, Reyes, un cumpleaños... Con este auténtico camión Monster Jam radiocontrol, ¡diversión y horas de juego aseguradas",
+            "precio": 13,
+            "descuentos": "Precio con descuento directo",
+            "url": "https://amzn.to/3ZB6HMv",
+            "comercio": "Amazon"
+        }
     ]
 }
