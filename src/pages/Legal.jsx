@@ -160,6 +160,8 @@ const Legal = () => {
             
             
             <p >En el supuesto de que cualquier estipulaci&oacute;n de las presentes Condiciones Generales de Uso resultara inexigible o nula en virtud de la legislaci&oacute;n aplicable o como consecuencia de una resoluci&oacute;n judicial o administrativa, dicha inexigibilidad o nulidad no har&aacute; que las presentes Condiciones Generales de Uso resulten inexigibles o nulas en su conjunto. En dichos casos, la empresa proceder&aacute; a la modificaci&oacute;n o sustituci&oacute;n de dicha estipulaci&oacute;n por otra que sea v&aacute;lida y exigible y que, en la medida de lo posible, consiga el objetivo y pretensi&oacute;n reflejados en la estipulaci&oacute;n original.</p>
+            <p ><strong><strong>13. PROGRAMAS DE AFILIACIÓN</strong></strong></p>
+            <p>En calidad de Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables.</p>
         </div>
     );
 }

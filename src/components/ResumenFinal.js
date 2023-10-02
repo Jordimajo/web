@@ -41,11 +41,11 @@ const ResumenFinal = ({ productosDelDia, puntuacionDelDia, fecha }) => {
 
     const obtenerMensajePorPuntuacion = (puntuacion) => {
         if (puntuacion < 50) {
-            return "Reto diario no superado";
+            return "Reto diario no superado 😔​​";
         } else if (puntuacion >= 50 && puntuacion < 80) {
-            return "Reto diario superado";
+            return "Reto diario superado 🥳!";
         } else {
-            return "Reto diario excelente";
+            return "Reto diario excelente 🤩​!!!";
         }
     }
 
